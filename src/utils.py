@@ -24,7 +24,7 @@ from llama_index.llms.nvidia import NVIDIA
 def set_environment_variables():
     """Set necessary environment variables."""
     #os.environ["NVIDIA_API_KEY"] = "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" #set API key
-    os.environ["NVIDIA_API_KEY"] = "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"
+    os.environ["NVIDIA_API_KEY"] = "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"
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
     #os.environ["NVIDIA_API_KEY"] = ""
 
