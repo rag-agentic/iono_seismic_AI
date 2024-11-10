@@ -1,0 +1,13 @@
+Theses STEC (Slant Total Electron Content) measurements were collected with the GPS ground station
+The radio link from the satellite named C009I to the ground station BSHM, at 2023-02-06 from 19.0h to 20.0h is light disturbances (stec=-0.32) .
+The radio link from the satellite named C011G to the ground station BSHM, at 2023-02-06 from 14.0h to 15.0h is light disturbances (stec=0.34) .
+The radio link from the satellite named C011G to the ground station BSHM, at 2023-02-06 from 18.0h to 19.0h is moderate disturbances (stec=0.41) .
+The radio link from the satellite named C016G to the ground station BSHM, at 2023-02-06 from 7.0h to 8.0h is moderate disturbances (stec=-0.42) .
+The radio link from the satellite named C016G to the ground station BSHM, at 2023-02-06 from 9.0h to 10.0h is moderate disturbances (stec=-0.44) .
+The radio link from the satellite named C016G to the ground station BSHM, at 2023-02-06 from 17.0h to 18.0h is light disturbances (stec=0.33) .
+The radio link from the satellite named C220I to the ground station BSHM, at 2023-02-06 from 18.0h to 19.0h is moderate disturbances (stec=0.45) .
+The radio link from the satellite named C229G to the ground station BSHM, at 2023-02-06 from 9.0h to 10.0h is light disturbances (stec=-0.38) .
+The radio link from the satellite named C229G to the ground station BSHM, at 2023-02-06 from 17.0h to 18.0h is moderate disturbances (stec=0.44) .
+The radio link from the satellite named R851 to the ground station BSHM, at 2023-02-06 from 14.0h to 15.0h is strong disturbances (stec=-0.48) .
+The radio link from the satellite named R851 to the ground station BSHM, at 2023-02-06 from 21.0h to 22.0h is light disturbances (stec=-0.36) .
+The radio link from the satellite named R856 to the ground station BSHM, at 2023-02-06 from 20.0h to 21.0h is light disturbances (stec=-0.37) .

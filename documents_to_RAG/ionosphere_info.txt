@@ -1,0 +1,27 @@
+General Information on the Ionosphere
+
+    The ionosphere is that region of the atmosphere surrounding the earth that is ionized primarily by the solar radiation.
+    During the day the ionized layers exist between 90  to 1000 km above the earth’s surface.
+    The electron density is of order 1010 to 1012 electrons per meter cube.
+    There are primarily three layers in which electron density peaks up (D, E and F layers).
+    During day time the F layer splits into two layers F1 and F2.
+    D layer disappears at night.
+    Ionized layers causes radio waves, less than 40 - 50 MHz, to bend and refract back to earth.
+    The electron concentrations vary from seconds to years having various periodicities like hourly, monthly, seasonal and yearly, sunspot cycles.
+    Digital high speed data communications over ionosphere is still under development due to high variability of the ionosphere with respect to time, space and frequency.
+    On earth there are basically three different regions: high latitude (polar), midlatitude and equatorial.
+    Least problematic and most stable is the midlatitude ionosphere.
+
+    Communication is usually performed over E and F layers. D layer introduces attenuation and absorption.
+    •  D layer
+
+    This layer contains some free electrons and ions, but also many more normal (or neutral meaning uncharged) molecules and atoms. When radiation interacts with an electron it cause the electron to move. If the electron runs into a neutral molecule or atom, it is absorbed and so is the energy from the radiation. Therefore the primary effect of this layer is to absorb radiation. This is bad for transmissions because when the radiation is absorbed, the signal is lost. The lower the frequency of transmission the more the electron moves and the more likely it is to be absorbed. Therefore the lower the frequency the more the D layer absorbs the transmission energy.
+
+    •  E layer
+    This central part of this layer represent contains another peak or maximum value in electron density. However there are fewer electrons in the E layer compared to the F layer and therefore it is not usually as important for bending of HF radiation as the F layer. Some lower HF frequencies, particularly during the day, will be reflected by this layer, which, because it is lower then the F layer, may result in reduced range. This layer is highly variable in space and time. Sometimes disturbances will cause abnormal reflections in parts of the E layer. When this occurs a Sporadic E layer is said to be present.
+
+    •  F layer
+    The F layer is the highest significant layer in the ionosphere and the central part has has the greatest electron density in the earth’s atmosphere. This is the main region where HF radiation from below is bent back down. We use the term ”reflection” in the table because the bending is like a reflection. Technically, this bending process is called refraction, but we can think of it as a reflection from the F layer. During the day the F layer separates into two layers, called F1 and F2. The F2 is the stronger and more important layer.
+
+    In an ionized gas, only the motion of electrons is important under the action of a high-frequency electric field, since the ions are more than 1800 times heavier.
+    The equation of motion for a single electron of mass m, charge -e, with velocity v, acting upon by and electric field is
