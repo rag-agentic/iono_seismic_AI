@@ -22,6 +22,7 @@ from utils import (
     describe_image, is_graph, process_graph, extract_text_around_item, 
     process_text_blocks, save_uploaded_file
 )
+import sys
 
 
 from transformers import AutoTokenizer
@@ -32,14 +33,16 @@ tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
 token_limit = 512  # Limite de 512 tokens par chunk
 
 # Fonction pour découper le texte en chunks de 512 tokens avec overlap
-def split_text_into_chunks_with_overlap(text, token_limit=512, overlap_tokens=50):
+def split_text_into_chunks_with_overlap(text, token_limit=512, overlap_tokens=0):
     tokens = tokenizer(text, truncation=False)["input_ids"]
     chunks = []
+    #print("Number of Token is",len(tokens))
     for i in range(0, len(tokens), token_limit - overlap_tokens):
         # Limiter chaque chunk à la taille maximale définie
         chunk_tokens = tokens[i:i + token_limit]
         chunk_text = tokenizer.decode(chunk_tokens, skip_special_tokens=True)
         chunks.append(chunk_text)
+        #print("Token n°",i, " chunck", chunk_text)
     return chunks
 
 def get_pdf_documents(pdf_file):
@@ -265,10 +268,11 @@ def load_multimodal_data(files):
             text = file.read().decode("utf-8")
             chunks = split_text_into_chunks_with_overlap(text, token_limit)
             #doc = Document(text=text, metadata={"source": file.name, "type": "text"})
-                    # Crée des documents pour chaque chunk avec des métadonnées
+              
             for idx, chunk in enumerate(chunks):
                 doc = Document(text=chunk, metadata={"source": file.name, "chunk_id": idx})
-                print(doc)
+                # Supposons que le texte se trouve dans document.text
+                taille_texte = sys.getsizeof(doc.text)
                 documents.append(doc)
     return documents
 
@@ -304,7 +308,7 @@ def load_data_from_directory(directory):
             with open(filepath, "r", encoding="utf-8") as text_file:
                 text = text_file.read()
                 chunks = split_text_into_chunks_with_overlap(text, token_limit)
-
+                
             for idx, chunk in enumerate(chunks):
                 doc = Document(text=chunk, metadata={"source": filename, "chunk_id": idx})
                 print(doc)

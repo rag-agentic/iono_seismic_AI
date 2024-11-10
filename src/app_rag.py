@@ -17,7 +17,8 @@ from llama_index.core import Document
 
 from utils import set_environment_variables
 
-MILVUS_SERVER = "127.0.0.1"
+MILVUS_SERVER = "192.168.0.5"
+
 
 def init_st_state_session():
     if "latitude" not in st.session_state:
@@ -30,13 +31,17 @@ def init_st_state_session():
         st.session_state.form_visible = False
     if "first_prompting" not in st.session_state:
         st.session_state.first_prompting = True
+    if "history" not in st.session_state:
+        st.session_state["history"] = []
 
 
 def initialize_settings():
     Settings.embed_model = NVIDIAEmbedding(
         model="nvidia/nv-embedqa-e5-v5", truncate="END"
     )
-    Settings.llm = NVIDIA(model="mistralai/mistral-7b-instruct-v0.2")
+    # Settings.llm = NVIDIA(model="mistralai/mistral-7b-instruct-v0.2")
+    Settings.llm = NVIDIA(model="mistralai/mixtral-8x22b-instruct-v0.1")
+
     Settings.text_splitter = SentenceSplitter(chunk_size=600)
 
 
@@ -44,14 +49,29 @@ prompt = """
         You are an agent specialized in document analysis. You will receive documents that you will need to analyze and catalog 
         in order to answer my questions. My goal is to find an event among all the scientific data you have in your context. 
         You must be precise and professional in your responses.The objective is to find correlations between the lithosphere, 
-        the atmosphere, and the ionosphere. For this, in your data, you have seismic events and STEC values." 
-        If you need any more translations or further assistance, feel free to ask!
+        the atmosphere, and the ionosphere." 
         """
 
 prompt_command = """ 
-        When a user says "position on map", 
-        respond with: { "action": "position_on_map", "latitude": <latitude>, "longitude": <longitude>, "zoom": <zoom> }
-        if no zoom is provided, use 10 by default.
+        In the future, if user request a "position on map" (is at the left on the screen)  respond with the following format:
+        { "action": "position_on_map", "latitude": <latitude>, "longitude": <longitude>, "zoom": <zoom> }
+
+        - If zoom is not provided, default to 10.
+        - Ignore any additional information like "north", "west", etc., and focus on latitude and longitude only.
+
+        Examples:
+        - User: "Point to map, long = 43 and lat = 4"
+        Response: { "action": "position_on_map", "latitude": 4, "longitude": 43, "zoom": 10 }
+
+        - User: "Position at lat 51.5074, long -0.1278, zoom 12"
+        Response: { "action": "position_on_map", "latitude": 51.5074, "longitude": -0.1278, "zoom": 12 }
+
+        This format helps the chatbot understand commands and reply with the correct map positioning data.
+        Don't anwser the position now.
+        """
+
+prompt_command = """ 
+         For this, in your data, you have a list of earthwake description like and radio link disturbances with STEC (Slant Total Electron Content) values.
         """
 
 
@@ -61,7 +81,7 @@ def instruction_prompting(query_engine):
         with prompting_container:
             st.session_state.first_prompting = False
             # list_prompting = [prompt, prompt_command ]
-            list_prompting = [prompt]
+            list_prompting = [prompt, prompt_command]
             for prompt_item in list_prompting:
                 with st.chat_message("user"):
                     st.markdown(prompt_item)
@@ -78,6 +98,7 @@ def instruction_prompting(query_engine):
                         message_placeholder.markdown(full_response + "▌")
                     message_placeholder.markdown(full_response)
                     st.markdown(response_prompt)
+                    prompting_container = st.empty()
 
                 st.session_state["history"].append(
                     {"role": "assistant", "content": response_prompt}
@@ -86,11 +107,11 @@ def instruction_prompting(query_engine):
         prompting_container = st.empty()
 
 
-def chat_bot_engine(user_input, query_engine):
+def chat_bot_engine(user_input, query_engine, st_history):
     if user_input:
         with st.chat_message("user"):
             st.markdown(user_input)
-        st.session_state["history"].append({"role": "user", "content": user_input})
+        st_history.append({"role": "user", "content": user_input})
 
         with st.chat_message("assistant"):
             message_placeholder = st.empty()
@@ -101,9 +122,7 @@ def chat_bot_engine(user_input, query_engine):
                 full_response += token
                 message_placeholder.markdown(full_response + "▌")
             message_placeholder.markdown(full_response)
-        st.session_state["history"].append(
-            {"role": "assistant", "content": full_response}
-        )
+        st_history.append({"role": "assistant", "content": full_response})
 
 
 def display_form():
@@ -155,6 +174,7 @@ def show_map(latitude, longitude):
         map_style="mapbox://styles/mapbox/satellite-v9",
     )
 
+
 # Upload documents for RAG
 def upload_item(db_milvus):
     upload_placeholder = st.container()
@@ -168,10 +188,8 @@ def upload_item(db_milvus):
             with st.spinner("Processing files..."):
                 documents = load_multimodal_data(uploaded_files)
                 st.session_state["index"] = db_milvus.create_index_document(documents)
-                st.session_state["history"] = []
-
                 success_message = st.success("Directory processed and index created!")
-                time.sleep(2)
+                # time.sleep(2)
                 upload_placeholder = st.empty()
 
 
@@ -203,7 +221,7 @@ def main():
 
                 if st.button("Open Form"):
                     # Display Form
-                    st.session_state.form_visible = True  
+                    st.session_state.form_visible = True
 
                 # If visible show form
                 if st.session_state.form_visible:
@@ -237,8 +255,8 @@ def main():
             )
 
             # LLM request
-            instruction_prompting(query_engine)
-            chat_bot_engine(user_input, query_engine)
+            #instruction_prompting(query_engine)   
+            chat_bot_engine(user_input, query_engine,st.session_state["history"])
 
             # Add a clear button
             if st.button("Clear Chat"):

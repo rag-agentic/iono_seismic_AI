@@ -23,7 +23,8 @@ from llama_index.llms.nvidia import NVIDIA
 
 def set_environment_variables():
     """Set necessary environment variables."""
-    os.environ["NVIDIA_API_KEY"] = "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" #set API key
+    #os.environ["NVIDIA_API_KEY"] = "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" #set API key
+    os.environ["NVIDIA_API_KEY"] = "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"
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
     #os.environ["NVIDIA_API_KEY"] = ""
 
@@ -44,7 +45,8 @@ def is_graph(image_content):
 def process_graph(image_content):
     """Process a graph image and generate a description."""
     deplot_description = process_graph_deplot(image_content)
-    mixtral = NVIDIA(model_name="mistralai/mistral-7b-instruct-v0.2")
+    #mixtral = NVIDIA(model_name="mistralai/mistral-7b-instruct-v0.2")
+    mixtral = NVIDIA(model_name="mistralai/mixtral-8x22b-instruct-v0.1")
 
     response = mixtral.complete("Your responsibility is to explain charts. You are an expert in describing the responses of linearized tables into plain English text for LLMs to use. Explain the following linearized table. " + deplot_description)
     return response.text
