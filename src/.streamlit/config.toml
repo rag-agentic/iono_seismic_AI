@@ -1,0 +1,9 @@
+# ~/.streamlit/config.toml
+
+[theme]
+base="dark"
+primaryColor="#FF6F61"  # Corail doux, parfait pour attirer l'attention sur les éléments interactifs
+backgroundColor="#212121"  # Fond sombre anthracite doux, moins agressif pour les yeux
+secondaryBackgroundColor="#424242"  # Gris légèrement plus clair pour les sections secondaires
+textColor="#E0E0E0"  # Blanc cassé pour une bonne lisibilité du texte principal
+font = "sans serif"  # Choisir une police moderne et claire

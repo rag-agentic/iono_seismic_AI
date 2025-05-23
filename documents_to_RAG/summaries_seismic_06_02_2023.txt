@@ -1,0 +1,395 @@
+On 2023-02-07 23:13:02.009000, there was an earthquake of magnitude 4.5 at Central Turkey, located at GPS coordinates (36.0927, 35.8637).
+On 2023-02-07 23:12:52.630000, there was an earthquake of magnitude 4.7 at 59 km W of San Antonio de los Cobres, Argentina, located at GPS coordinates (-24.2545, -66.9039).
+On 2023-02-07 23:09:59.790000, there was an earthquake of magnitude 3.65 at 135 km N of Suárez, Puerto Rico, located at GPS coordinates (19.6438, -65.7015).
+On 2023-02-07 22:51:12.500000, there was an earthquake of magnitude 2.53 at 9 km SE of Tallaboa, Puerto Rico, located at GPS coordinates (17.9221666666667, -66.664).
+On 2023-02-07 22:45:27.921000, there was an earthquake of magnitude 4.2 at 9 km NNE of Göksun, Turkey, located at GPS coordinates (38.0992, 36.5507).
+On 2023-02-07 22:07:54.879000, there was an earthquake of magnitude 4.2 at Central Turkey, located at GPS coordinates (38.0663, 36.5541).
+On 2023-02-07 21:58:54.224000, there was an earthquake of magnitude 4.1 at 18 km S of Kahramanmara?, Turkey, located at GPS coordinates (37.4201, 36.9564).
+On 2023-02-07 21:31:36.127000, there was an earthquake of magnitude 5.0 at northern Colombia, located at GPS coordinates (7.1614, -76.9892).
+On 2023-02-07 21:30:17.344000, there was an earthquake of magnitude 5.3 at 91 km W of Lata, Solomon Islands, located at GPS coordinates (-10.6644, 164.9618).
+On 2023-02-07 21:28:28.763000, there was an earthquake of magnitude 4.4 at southeast of the Loyalty Islands, located at GPS coordinates (-22.0314, 170.7608).
+On 2023-02-07 21:26:09.353000, there was an earthquake of magnitude 3.4 at 20 km E of Wright, Wyoming, located at GPS coordinates (43.7319, -105.2355).
+On 2023-02-07 21:21:25.723000, there was an earthquake of magnitude 4.7 at Central Turkey, located at GPS coordinates (37.904, 37.4957).
+On 2023-02-07 21:16:06.392000, there was an earthquake of magnitude 4.8 at Tonga, located at GPS coordinates (-16.8113, -173.3557).
+On 2023-02-07 21:14:28.432000, there was an earthquake of magnitude 4.1 at Dead Sea region, located at GPS coordinates (32.0866, 35.2415).
+On 2023-02-07 21:11:24.764000, there was an earthquake of magnitude 3.2 at south of Alaska, located at GPS coordinates (54.3297, -159.9486).
+On 2023-02-07 21:00:14.910000, there was an earthquake of magnitude 3.27 at 47 km N of Arecibo, Puerto Rico, located at GPS coordinates (18.8923333333333, -66.6376666666667).
+On 2023-02-07 20:58:39.482000, there was an earthquake of magnitude 4.4 at Fiji region, located at GPS coordinates (-18.5746, -177.5589).
+On 2023-02-07 20:36:37.120000, there was an earthquake of magnitude 2.73 at 13km E of Mammoth Lakes, CA, located at GPS coordinates (37.6246667, -118.8318333).
+On 2023-02-07 19:54:23.826000, there was an earthquake of magnitude 4.6 at eastern Turkey, located at GPS coordinates (38.5889, 39.9722).
+On 2023-02-07 19:54:01.116000, there was an earthquake of magnitude 4.3 at South Sandwich Islands region, located at GPS coordinates (-57.2046, -26.3268).
+On 2023-02-07 19:13:49.620000, there was an earthquake of magnitude 4.4 at Central Turkey, located at GPS coordinates (38.0472, 36.9204).
+On 2023-02-07 19:08:24.810000, there was an earthquake of magnitude 4.4 at 14 km E of Gökbudak, Turkey, located at GPS coordinates (37.9172, 42.8093).
+On 2023-02-07 18:43:47.287000, there was an earthquake of magnitude 4.3 at 37 km E of Lata, Solomon Islands, located at GPS coordinates (-10.7595, 166.142).
+On 2023-02-07 18:42:32.727000, there was an earthquake of magnitude 4.2 at Sulawesi, Indonesia, located at GPS coordinates (-0.1617, 123.9229).
+On 2023-02-07 18:27:14.492000, there was an earthquake of magnitude 4.1 at 220 km NNE of Lospalos, Timor Leste, located at GPS coordinates (-6.6018, 127.5477).
+On 2023-02-07 18:14:08.571000, there was an earthquake of magnitude 4.4 at 11 km N of Ad?yaman, Turkey, located at GPS coordinates (37.8659, 38.2929).
+On 2023-02-07 18:09:59.860000, there was an earthquake of magnitude 5.3 at Central Turkey, located at GPS coordinates (37.9358, 36.6013).
+On 2023-02-07 17:53:50.882000, there was an earthquake of magnitude 4.2 at 5 km WSW of Göksun, Turkey, located at GPS coordinates (38.0002, 36.4438).
+On 2023-02-07 17:38:00.327000, there was an earthquake of magnitude 4.2 at Central Turkey, located at GPS coordinates (37.8896, 37.6276).
+On 2023-02-07 16:54:31.685000, there was an earthquake of magnitude 4.1 at 10 km WSW of Nurhak, Turkey, located at GPS coordinates (37.9421, 37.323).
+On 2023-02-07 16:53:27.462000, there was an earthquake of magnitude 4.2 at Central Turkey, located at GPS coordinates (36.0086, 35.9967).
+On 2023-02-07 16:51:31.659000, there was an earthquake of magnitude 2.6 at 54 km S of Whites City, New Mexico, located at GPS coordinates (31.68366016, -104.4068284).
+On 2023-02-07 16:44:32.338000, there was an earthquake of magnitude 5.1 at 34 km NE of Colonia, Micronesia, located at GPS coordinates (9.7081, 138.3681).
+On 2023-02-07 16:44:10.094000, there was an earthquake of magnitude 2.6 at 56 km S of Whites City, New Mexico, located at GPS coordinates (31.6695, -104.4018).
+On 2023-02-07 16:11:16.763000, there was an earthquake of magnitude 4.8 at Fiji region, located at GPS coordinates (-21.135, -179.0498).
+On 2023-02-07 16:09:22.507000, there was an earthquake of magnitude 2.7 at 32 km SE of Egegik, Alaska, located at GPS coordinates (58.0226, -156.9557).
+On 2023-02-07 15:48:54.123000, there was an earthquake of magnitude 5.0 at 3 km SSW of Göksun, Turkey, located at GPS coordinates (37.9939, 36.4771).
+On 2023-02-07 15:31:28.295000, there was an earthquake of magnitude 4.7 at 18 km SW of Pazarc?k, Turkey, located at GPS coordinates (37.3758, 37.1447).
+On 2023-02-07 14:23:17.029000, there was an earthquake of magnitude 4.4 at 7 km ENE of Göksun, Turkey, located at GPS coordinates (38.0426, 36.5803).
+On 2023-02-07 14:20:19.970000, there was an earthquake of magnitude 5.2 at State of Yap, Federated States of Micronesia, located at GPS coordinates (9.5794, 138.4239).
+On 2023-02-07 14:15:43.184000, there was an earthquake of magnitude 4.6 at Laptev Sea, located at GPS coordinates (74.6844, 134.3835).
+On 2023-02-07 14:12:14.861000, there was an earthquake of magnitude 4.6 at West Chile Rise, located at GPS coordinates (-40.9842, -91.249).
+On 2023-02-07 13:46:56.948000, there was an earthquake of magnitude 4.8 at Luzon, Philippines, located at GPS coordinates (14.3575, 122.9823).
+On 2023-02-07 13:36:41.353000, there was an earthquake of magnitude 4.5 at 17 km WSW of Uzunba?, Turkey, located at GPS coordinates (36.0984, 35.8449).
+On 2023-02-07 13:36:03.340000, there was an earthquake of magnitude 4.4 at New Ireland region, Papua New Guinea, located at GPS coordinates (-4.5442, 153.3502).
+On 2023-02-07 13:31:20.635000, there was an earthquake of magnitude 4.3 at 177 km SSE of Atka, Alaska, located at GPS coordinates (50.6917, -173.3448).
+On 2023-02-07 13:21:57.948000, there was an earthquake of magnitude 2.5 at 117 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4155, -159.6186).
+On 2023-02-07 13:18:04.400000, there was an earthquake of magnitude 2.83 at 24km ESE of Santa Barbara Is., CA, located at GPS coordinates (33.4216667, -118.8061667).
+On 2023-02-07 12:47:41.825000, there was an earthquake of magnitude 3.8 at 247 km SE of Atka, Alaska, located at GPS coordinates (50.9664, -171.2181).
+On 2023-02-07 12:47:33.330000, there was an earthquake of magnitude 3.1 at 92 km SE of King Cove, Alaska, located at GPS coordinates (54.509, -161.2442).
+On 2023-02-07 12:41:58.511000, there was an earthquake of magnitude 4.0 at Andreanof Islands, Aleutian Islands, Alaska, located at GPS coordinates (52.5944, -173.5018).
+On 2023-02-07 12:08:38.490000, there was an earthquake of magnitude 2.77 at 1km N of The Geysers, CA, located at GPS coordinates (38.7898333, -122.7561667).
+On 2023-02-07 12:07:03.774000, there was an earthquake of magnitude 4.5 at 8 km S of Ye?ilyurt, Turkey, located at GPS coordinates (38.2171, 38.263).
+On 2023-02-07 11:01:11.695000, there was an earthquake of magnitude 4.4 at 19 km E of Nurhak, Turkey, located at GPS coordinates (37.9808, 37.6619).
+On 2023-02-07 10:57:45.760000, there was an earthquake of magnitude 4.1 at 21 km SE of Göksun, Turkey, located at GPS coordinates (37.8906, 36.6707).
+On 2023-02-07 10:56:29.905000, there was an earthquake of magnitude 4.5 at Central Turkey, located at GPS coordinates (37.8696, 36.6642).
+On 2023-02-07 10:53:22.247000, there was an earthquake of magnitude 4.9 at 4 km SSW of Níkiti, Greece, located at GPS coordinates (40.1816, 23.6427).
+On 2023-02-07 10:45:02.439000, there was an earthquake of magnitude 4.6 at Rota region, Northern Mariana Islands, located at GPS coordinates (14.0378, 145.1816).
+On 2023-02-07 10:37:17.535000, there was an earthquake of magnitude 4.6 at 9 km WSW of Uzunba?, Turkey, located at GPS coordinates (36.0958, 35.9441).
+On 2023-02-07 10:28:27.701000, there was an earthquake of magnitude 4.5 at 167 km W of Ambon, Indonesia, located at GPS coordinates (-3.4127, 126.6997).
+On 2023-02-07 10:27:32.024000, there was an earthquake of magnitude 4.6 at eastern Turkey, located at GPS coordinates (38.3061, 38.1915).
+On 2023-02-07 10:22:21.610000, there was an earthquake of magnitude 4.2 at 113 km NNE of Calama, Chile, located at GPS coordinates (-21.5017, -68.5209).
+On 2023-02-07 10:18:14.589000, there was an earthquake of magnitude 5.3 at 4 km WSW of Sincik, Turkey, located at GPS coordinates (38.0164, 38.57).
+On 2023-02-07 10:10:58.522000, there was an earthquake of magnitude 4.5 at 88 km SSE of San Jose Village, Northern Mariana Islands, located at GPS coordinates (14.1841, 145.797).
+On 2023-02-07 10:07:18.238000, there was an earthquake of magnitude 4.2 at 14 km WNW of Pazarc?k, Turkey, located at GPS coordinates (37.5226, 37.1468).
+On 2023-02-07 09:57:35.464000, there was an earthquake of magnitude 4.3 at 193 km W of Ambon, Indonesia, located at GPS coordinates (-3.5599, 126.45).
+On 2023-02-07 09:56:46.012000, there was an earthquake of magnitude 4.7 at 178 km W of Ambon, Indonesia, located at GPS coordinates (-3.5923, 126.5778).
+On 2023-02-07 09:53:31.468000, there was an earthquake of magnitude 4.2 at 17 km NW of Göksun, Turkey, located at GPS coordinates (38.1471, 36.3693).
+On 2023-02-07 08:49:35.851000, there was an earthquake of magnitude 5.1 at northern Mid-Atlantic Ridge, located at GPS coordinates (49.513, -28.4226).
+On 2023-02-07 08:25:46.610000, there was an earthquake of magnitude 4.2 at 11 km SE of Nurhak, Turkey, located at GPS coordinates (37.8817, 37.528).
+On 2023-02-07 08:21:37.400000, there was an earthquake of magnitude 2.7 at 64 km SSW of Nikolski, Alaska, located at GPS coordinates (52.435, -169.3357).
+On 2023-02-07 08:18:11.763000, there was an earthquake of magnitude 4.3 at 13 km NNW of Sincik, Turkey, located at GPS coordinates (38.1372, 38.537).
+On 2023-02-07 08:01:26.563000, there was an earthquake of magnitude 3.3 at Gulf of Alaska, located at GPS coordinates (56.2525, -149.2649).
+On 2023-02-07 07:54:23.648000, there was an earthquake of magnitude 4.3 at 12 km NE of K?r?khan, Turkey, located at GPS coordinates (36.5768, 36.4539).
+On 2023-02-07 07:45:06.565000, there was an earthquake of magnitude 4.2 at 12 km NE of Hassa, Turkey, located at GPS coordinates (36.8855, 36.6006).
+On 2023-02-07 07:26:36.313000, there was an earthquake of magnitude 4.4 at 14 km ENE of Nurhak, Turkey, located at GPS coordinates (38.0311, 37.5813).
+On 2023-02-07 07:11:15.008000, there was an earthquake of magnitude 5.4 at 7 km NNE of Sincik, Turkey, located at GPS coordinates (38.0971, 38.6398).
+On 2023-02-07 06:51:20.393000, there was an earthquake of magnitude 2.6 at 69 km ENE of Pedro Bay, Alaska, located at GPS coordinates (60.1323, -153.0624).
+On 2023-02-07 06:48:51.697000, there was an earthquake of magnitude 4.5 at 26 km SSE of Darende, Turkey, located at GPS coordinates (38.3144, 37.5808).
+On 2023-02-07 06:45:42.149000, there was an earthquake of magnitude 5.3 at 169 km S of Severo-Kuril’sk, Russia, located at GPS coordinates (49.1578, 155.9024).
+On 2023-02-07 06:40:53.780000, there was an earthquake of magnitude 4.5 at 3 km WNW of Göksun, Turkey, located at GPS coordinates (38.0342, 36.455).
+On 2023-02-07 06:26:11.987000, there was an earthquake of magnitude 4.2 at 22 km NE of Nurda??, Turkey, located at GPS coordinates (37.3357, 36.8762).
+On 2023-02-07 06:16:32.702000, there was an earthquake of magnitude 2.8 at 89 km ESE of Adak, Alaska, located at GPS coordinates (51.476, -175.5014).
+On 2023-02-07 06:15:23.256000, there was an earthquake of magnitude 4.1 at 9 km WNW of Çelikhan, Turkey, located at GPS coordinates (38.0668, 38.1413).
+On 2023-02-07 05:59:52.508000, there was an earthquake of magnitude 4.7 at 78 km NNE of Saipan, Northern Mariana Islands, located at GPS coordinates (15.8878, 145.9842).
+On 2023-02-07 05:38:57.318000, there was an earthquake of magnitude 2.7 at 145 km WSW of Adak, Alaska, located at GPS coordinates (51.3204, -178.5442).
+On 2023-02-07 05:26:30.941000, there was an earthquake of magnitude 4.4 at Turkey-Syria border region, located at GPS coordinates (36.1531, 36.3488).
+On 2023-02-07 05:08:59.651000, there was an earthquake of magnitude 4.2 at Eastern Xizang, located at GPS coordinates (31.7237, 93.6523).
+On 2023-02-07 04:52:38.486000, there was an earthquake of magnitude 4.3 at Samoa Islands region, located at GPS coordinates (-14.775, -173.3358).
+On 2023-02-07 04:45:23.679000, there was an earthquake of magnitude 4.4 at Izu Islands, Japan region, located at GPS coordinates (32.5112, 141.9484).
+On 2023-02-07 04:42:03.194000, there was an earthquake of magnitude 4.4 at 7 km ENE of A?a?? Karafak?l?, Turkey, located at GPS coordinates (36.8131, 36.6306).
+On 2023-02-07 04:26:45.440000, there was an earthquake of magnitude 4.4 at 13 km WSW of Merizo Village, Guam, located at GPS coordinates (13.2193, 144.5526).
+On 2023-02-07 04:16:42.272000, there was an earthquake of magnitude 3.9 at 6 km S of Nurhak, Turkey, located at GPS coordinates (37.9036, 37.4321).
+On 2023-02-07 04:07:57.801000, there was an earthquake of magnitude 4.1 at Kahramanmaras Earthquake Sequence, located at GPS coordinates (37.7181, 37.4217).
+On 2023-02-07 03:58:56.236000, there was an earthquake of magnitude 4.2 at 6 km WNW of Pazarc?k, Turkey, located at GPS coordinates (37.507, 37.227).
+On 2023-02-07 03:40:16.955000, there was an earthquake of magnitude 4.3 at 116 km NE of Lospalos, Timor Leste, located at GPS coordinates (-7.6701, 127.6222).
+On 2023-02-07 03:37:00.334000, there was an earthquake of magnitude 4.3 at 2 km SSE of Büyük Dalyan, Turkey, located at GPS coordinates (36.2678, 36.2151).
+On 2023-02-07 03:30:01.492000, there was an earthquake of magnitude 4.3 at 3 km S of Gölba??, Turkey, located at GPS coordinates (37.748, 37.6323).
+On 2023-02-07 03:27:16.236000, there was an earthquake of magnitude 4.6 at north of Ascension Island, located at GPS coordinates (-0.2936, -16.7707).
+On 2023-02-07 03:16:16.365000, there was an earthquake of magnitude 4.6 at 15 km NNE of Pazarc?k, Turkey, located at GPS coordinates (37.6089, 37.3755).
+On 2023-02-07 03:13:12.754000, there was an earthquake of magnitude 5.5 at 8 km ESE of Gölba??, Turkey, located at GPS coordinates (37.7639, 37.7309).
+On 2023-02-07 03:08:57.248000, there was an earthquake of magnitude 4.8 at 14 km N of Gölba??, Turkey, located at GPS coordinates (37.917, 37.6406).
+On 2023-02-07 03:02:54.008000, there was an earthquake of magnitude 4.3 at 23 km SW of Pazarc?k, Turkey, located at GPS coordinates (37.3373, 37.1197).
+On 2023-02-07 02:56:17.992000, there was an earthquake of magnitude 4.6 at northern Colombia, located at GPS coordinates (6.8089, -73.0222).
+On 2023-02-07 02:53:29.007000, there was an earthquake of magnitude 4.4 at 6 km ENE of Göksun, Turkey, located at GPS coordinates (38.0387, 36.5733).
+On 2023-02-07 02:47:37.074000, there was an earthquake of magnitude 4.7 at 10 km NW of Yaylada??, Turkey, located at GPS coordinates (35.9675, 35.9849).
+On 2023-02-07 02:46:20.923000, there was an earthquake of magnitude 4.1 at 97 km ESE of Sarkand, Kazakhstan, located at GPS coordinates (45.0031, 81.0171).
+On 2023-02-07 02:43:27.973000, there was an earthquake of magnitude 4.4 at 15 km S of Af?in, Turkey, located at GPS coordinates (38.1044, 36.9078).
+On 2023-02-07 02:39:03.939000, there was an earthquake of magnitude 4.2 at 6 km N of Darende, Turkey, located at GPS coordinates (38.6041, 37.5154).
+On 2023-02-07 02:30:56.621000, there was an earthquake of magnitude 4.2 at 45 km NE of Bandar-e Lengeh, Iran, located at GPS coordinates (26.8303, 55.2235).
+On 2023-02-07 02:29:34.087000, there was an earthquake of magnitude 5.0 at 61 km NNE of Yigo Village, Guam, located at GPS coordinates (14.0618, 145.0781).
+On 2023-02-07 02:28:20.753000, there was an earthquake of magnitude 4.1 at 9 km NE of Nurhak, Turkey, located at GPS coordinates (38.0265, 37.5093).
+On 2023-02-07 02:12:35.034000, there was an earthquake of magnitude 4.3 at Fiji region, located at GPS coordinates (-18.1205, -178.2173).
+On 2023-02-07 02:01:20.676000, there was an earthquake of magnitude 4.3 at 143 km ESE of Kimbe, Papua New Guinea, located at GPS coordinates (-5.836, 151.3977).
+On 2023-02-07 01:34:29.191000, there was an earthquake of magnitude 4.4 at 20 km SSE of Kahramanmara?, Turkey, located at GPS coordinates (37.4326, 37.0521).
+On 2023-02-07 01:32:00.826000, there was an earthquake of magnitude 4.4 at 5 km E of Göksun, Turkey, located at GPS coordinates (38.0152, 36.5543).
+On 2023-02-07 01:30:42.552000, there was an earthquake of magnitude 4.1 at Kepulauan Babar, Indonesia, located at GPS coordinates (-7.0741, 129.4173).
+On 2023-02-07 01:29:18.918000, there was an earthquake of magnitude 4.2 at 21 km SW of Af?in, Turkey, located at GPS coordinates (38.0903, 36.7693).
+On 2023-02-07 01:18:07.375000, there was an earthquake of magnitude 4.3 at 3 km W of Göksun, Turkey, located at GPS coordinates (38.0195, 36.4624).
+On 2023-02-07 01:05:35.234000, there was an earthquake of magnitude 4.4 at Macquarie Island region, located at GPS coordinates (-55.3049, 155.7786).
+On 2023-02-07 00:44:14.350000, there was an earthquake of magnitude 3.8 at 4 km NE of Pasca, Colombia, located at GPS coordinates (4.3409, -74.2762).
+On 2023-02-07 00:35:51.557000, there was an earthquake of magnitude 5.4 at 66 km WSW of Pelabuhanratu, Indonesia, located at GPS coordinates (-7.2442, 106.0073).
+On 2023-02-07 00:20:16.237000, there was an earthquake of magnitude 4.2 at 22 km SSE of Göksun, Turkey, located at GPS coordinates (37.8431, 36.6148).
+On 2023-02-06 23:51:38.972000, there was an earthquake of magnitude 4.6 at south of the Fiji Islands, located at GPS coordinates (-24.9869, -176.8704).
+On 2023-02-06 23:29:14.993000, there was an earthquake of magnitude 4.5 at 39 km WNW of Latakia, Syria, located at GPS coordinates (35.6037, 35.3598).
+On 2023-02-06 23:13:30.166000, there was an earthquake of magnitude 4.2 at 3 km NW of Nurhak, Turkey, located at GPS coordinates (37.9846, 37.404).
+On 2023-02-06 22:55:27.276000, there was an earthquake of magnitude 4.0 at 14 km SE of Göksun, Turkey, located at GPS coordinates (37.9341, 36.6247).
+On 2023-02-06 22:47:13.544000, there was an earthquake of magnitude 4.7 at central East Pacific Rise, located at GPS coordinates (-8.79, -109.1973).
+On 2023-02-06 22:44:54.848000, there was an earthquake of magnitude 4.2 at 7 km NE of Göksun, Turkey, located at GPS coordinates (38.0613, 36.5637).
+On 2023-02-06 22:29:39.343000, there was an earthquake of magnitude 4.1 at 7 km WNW of Göksun, Turkey, located at GPS coordinates (38.0473, 36.4145).
+On 2023-02-06 22:26:17.724000, there was an earthquake of magnitude 4.2 at 3 km ESE of Nurhak, Turkey, located at GPS coordinates (37.9513, 37.4756).
+On 2023-02-06 22:20:48.859000, there was an earthquake of magnitude 5.0 at central East Pacific Rise, located at GPS coordinates (-8.8627, -109.3659).
+On 2023-02-06 22:11:36.032000, there was an earthquake of magnitude 4.4 at eastern Turkey, located at GPS coordinates (38.1918, 38.1778).
+On 2023-02-06 22:09:51.889000, there was an earthquake of magnitude 4.1 at 18 km S of Af?in, Turkey, located at GPS coordinates (38.0814, 36.8993).
+On 2023-02-06 21:58:59.215000, there was an earthquake of magnitude 3.3 at 37 km WSW of Anchor Point, Alaska, located at GPS coordinates (59.6572, -152.4559).
+On 2023-02-06 21:57:43.529000, there was an earthquake of magnitude 4.7 at 8 km E of Göksun, Turkey, located at GPS coordinates (38.032, 36.5882).
+On 2023-02-06 21:43:57.728000, there was an earthquake of magnitude 3.2 at 65 km E of Atka, Alaska, located at GPS coordinates (52.2193, -173.2395).
+On 2023-02-06 21:34:02.739000, there was an earthquake of magnitude 4.6 at 93 km W of San Antonio de los Cobres, Argentina, located at GPS coordinates (-24.3158, -67.2323).
+On 2023-02-06 21:15:18.245000, there was an earthquake of magnitude 4.9 at 13 km W of Ekinözü, Turkey, located at GPS coordinates (38.072, 37.034).
+On 2023-02-06 21:02:06.978000, there was an earthquake of magnitude 4.5 at 6 km SSW of Hassa, Turkey, located at GPS coordinates (36.7444, 36.4904).
+On 2023-02-06 20:54:01.125000, there was an earthquake of magnitude 4.4 at Central Turkey, located at GPS coordinates (37.9263, 36.4655).
+On 2023-02-06 20:53:24.379000, there was an earthquake of magnitude 4.8 at 9 km S of Ye?ilyurt, Turkey, located at GPS coordinates (38.2106, 38.2511).
+On 2023-02-06 20:45:42.200000, there was an earthquake of magnitude 4.3 at 2 km SE of Dursunlu, Turkey, located at GPS coordinates (36.1512, 36.1819).
+On 2023-02-06 20:44:00.230000, there was an earthquake of magnitude 4.8 at Central Turkey, located at GPS coordinates (38.0063, 36.5773).
+On 2023-02-06 20:40:06.434000, there was an earthquake of magnitude 4.9 at 8 km SSE of Ak?ada?, Turkey, located at GPS coordinates (38.2636, 37.9916).
+On 2023-02-06 20:37:51.879000, there was an earthquake of magnitude 5.3 at 32 km SW of Pazarc?k, Turkey, located at GPS coordinates (37.2507, 37.0859).
+On 2023-02-06 20:23:12.615000, there was an earthquake of magnitude 4.1 at 8 km NE of Sincik, Turkey, located at GPS coordinates (38.0887, 38.6825).
+On 2023-02-06 20:20:15.847000, there was an earthquake of magnitude 4.8 at 38 km NE of Hualien City, Taiwan, located at GPS coordinates (24.2348, 121.8534).
+On 2023-02-06 20:14:11.184000, there was an earthquake of magnitude 4.3 at 6 km SSW of Göksun, Turkey, located at GPS coordinates (37.9649, 36.479).
+On 2023-02-06 20:11:49.233000, there was an earthquake of magnitude 4.3 at Central Turkey, located at GPS coordinates (37.8934, 37.6383).
+On 2023-02-06 20:05:35.045000, there was an earthquake of magnitude 4.8 at Adana, Turkey, located at GPS coordinates (38.0339, 36.3096).
+On 2023-02-06 19:49:40.242000, there was an earthquake of magnitude 4.2 at 15 km ENE of G?ksun, Turkey, located at GPS coordinates (38.0947, 36.6422).
+On 2023-02-06 19:40:16.799000, there was an earthquake of magnitude 4.4 at 4 km NW of Çelikhan, Turkey, located at GPS coordinates (38.0516, 38.1927).
+On 2023-02-06 19:35:50.641000, there was an earthquake of magnitude 4.2 at 13 km W of Pazarc?k, Turkey, located at GPS coordinates (37.4801, 37.1528).
+On 2023-02-06 19:30:59.475000, there was an earthquake of magnitude 4.4 at 9 km SE of Ekinözü, Turkey, located at GPS coordinates (38.0086, 37.2784).
+On 2023-02-06 19:25:01.538000, there was an earthquake of magnitude 4.5 at 23 km SE of Göksun, Turkey, located at GPS coordinates (37.8505, 36.6645).
+On 2023-02-06 19:15:47.865000, there was an earthquake of magnitude 4.2 at Central Turkey, located at GPS coordinates (37.989, 36.3922).
+On 2023-02-06 19:12:31.181000, there was an earthquake of magnitude 4.1 at 12 km ESE of Ekinözü, Turkey, located at GPS coordinates (38.0322, 37.3231).
+On 2023-02-06 18:55:52.597000, there was an earthquake of magnitude 4.2 at 10 km SSW of Çelikhan, Turkey, located at GPS coordinates (37.9398, 38.1889).
+On 2023-02-06 18:51:18.887000, there was an earthquake of magnitude 4.3 at 11 km NNW of Musabeyli, Turkey, located at GPS coordinates (36.9819, 36.8786).
+On 2023-02-06 18:49:54.341000, there was an earthquake of magnitude 4.1 at 17 km WNW of Musabeyli, Turkey, located at GPS coordinates (36.9291, 36.7256).
+On 2023-02-06 18:48:48.760000, there was an earthquake of magnitude 3.9 at 16 km SSW of Ye?ilyurt, Turkey, located at GPS coordinates (38.1659, 38.1633).
+On 2023-02-06 18:42:39.863000, there was an earthquake of magnitude 2.5 at 13 km WSW of Happy Valley, Alaska, located at GPS coordinates (59.8884, -151.9519).
+On 2023-02-06 18:13:22.718000, there was an earthquake of magnitude 4.0 at 25 km ENE of Graneros, Chile, located at GPS coordinates (-33.9519, -70.4956).
+On 2023-02-06 18:03:53.807000, there was an earthquake of magnitude 5.2 at 6 km SW of G?ksun, Turkey, located at GPS coordinates (37.9781, 36.4456).
+On 2023-02-06 18:02:44.660000, there was an earthquake of magnitude 4.4 at 9 km NNE of Göksun, Turkey, located at GPS coordinates (38.1022, 36.5286).
+On 2023-02-06 17:46:49.824000, there was an earthquake of magnitude 4.5 at Central Turkey, located at GPS coordinates (38.0881, 37.8449).
+On 2023-02-06 17:33:46.677000, there was an earthquake of magnitude 4.5 at 4 km WSW of San Juan Cacahuatepec, Mexico, located at GPS coordinates (16.5957, -98.1903).
+On 2023-02-06 17:32:50.308000, there was an earthquake of magnitude 4.9 at Samoa Islands region, located at GPS coordinates (-15.4623, -172.953).
+On 2023-02-06 17:31:34.269000, there was an earthquake of magnitude 4.5 at 8 km S of Nurda??, Turkey, located at GPS coordinates (37.0895, 36.7386).
+On 2023-02-06 17:26:24.481000, there was an earthquake of magnitude 4.5 at 19 km ENE of Göksun, Turkey, located at GPS coordinates (38.097, 36.696).
+On 2023-02-06 17:22:02.040000, there was an earthquake of magnitude 4.1 at 11 km N of Göksun, Turkey, located at GPS coordinates (38.1262, 36.5145).
+On 2023-02-06 17:11:47.921000, there was an earthquake of magnitude 4.3 at 9 km W of Nurhak, Turkey, located at GPS coordinates (37.961, 37.3379).
+On 2023-02-06 16:55:35.783000, there was an earthquake of magnitude 4.5 at 5 km NNW of Nurhak, Turkey, located at GPS coordinates (38.0112, 37.4148).
+On 2023-02-06 16:43:28.541000, there was an earthquake of magnitude 5.0 at 2 km SSE of Göksun, Turkey, located at GPS coordinates (38.0007, 36.5078).
+On 2023-02-06 16:35:18.135000, there was an earthquake of magnitude 4.3 at 10 km SE of Do?anyol, Turkey, located at GPS coordinates (38.2354, 39.1175).
+On 2023-02-06 16:32:11.661000, there was an earthquake of magnitude 4.9 at 14 km SSW of A?a?? Karafak?l?, Turkey, located at GPS coordinates (36.6625, 36.4828).
+On 2023-02-06 16:28:08.698000, there was an earthquake of magnitude 4.7 at 14 km SSE of Kahramanmara?, Turkey, located at GPS coordinates (37.4633, 36.981).
+On 2023-02-06 16:27:19.276000, there was an earthquake of magnitude 4.7 at 6 km WNW of Göksun, Turkey, located at GPS coordinates (38.0468, 36.4364).
+On 2023-02-06 16:26:39.507000, there was an earthquake of magnitude 4.8 at 9 km ENE of Göksun, Turkey, located at GPS coordinates (38.0385, 36.5982).
+On 2023-02-06 16:26:15.464000, there was an earthquake of magnitude 4.6 at 26 km WSW of Ekinözü, Turkey, located at GPS coordinates (37.9826, 36.8994).
+On 2023-02-06 16:25:01.255000, there was an earthquake of magnitude 4.2 at 5 km NNW of Göksun, Turkey, located at GPS coordinates (38.0666, 36.4607).
+On 2023-02-06 16:22:44.967000, there was an earthquake of magnitude 4.1 at 0 km ESE of Göksun, Turkey, located at GPS coordinates (38.0189, 36.5048).
+On 2023-02-06 16:21:46.033000, there was an earthquake of magnitude 4.1 at 9 km NW of Göksun, Turkey, located at GPS coordinates (38.0912, 36.433).
+On 2023-02-06 16:10:43.265000, there was an earthquake of magnitude 4.5 at 23 km W of Uzunba?, Turkey, located at GPS coordinates (36.1064, 35.7822).
+On 2023-02-06 16:06:42.958000, there was an earthquake of magnitude 4.3 at 18 km WSW of Ekinözü, Turkey, located at GPS coordinates (37.9972, 36.9911).
+On 2023-02-06 15:59:27.990000, there was an earthquake of magnitude 4.2 at Central Turkey, located at GPS coordinates (38.0709, 37.5505).
+On 2023-02-06 15:52:44.320000, there was an earthquake of magnitude 4.3 at Central Turkey, located at GPS coordinates (37.868, 37.8519).
+On 2023-02-06 15:44:37.557000, there was an earthquake of magnitude 2.5 at 45 km ESE of Port Alsworth, Alaska, located at GPS coordinates (60.0811, -153.539).
+On 2023-02-06 15:33:32.721000, there was an earthquake of magnitude 5.4 at eastern Turkey, located at GPS coordinates (38.19, 38.1756).
+On 2023-02-06 15:27:29.330000, there was an earthquake of magnitude 3.15 at 59 km N of San Antonio, Puerto Rico, located at GPS coordinates (19.0286666666667, -67.151).
+On 2023-02-06 15:14:34.402000, there was an earthquake of magnitude 4.9 at 13 km NE of Gölba??, Turkey, located at GPS coordinates (37.8791, 37.7355).
+On 2023-02-06 14:57:46.819000, there was an earthquake of magnitude 4.3 at 6 km SSW of Do?an?ehir, Turkey, located at GPS coordinates (38.0378, 37.8354).
+On 2023-02-06 14:56:54.296000, there was an earthquake of magnitude 3.0 at 17 km N of Snyder, Texas, located at GPS coordinates (32.8793335, -100.9338081).
+On 2023-02-06 14:51:15.299000, there was an earthquake of magnitude 4.4 at 15 km ENE of Çelikhan, Turkey, located at GPS coordinates (38.0706, 38.404).
+On 2023-02-06 14:41:57.177000, there was an earthquake of magnitude 4.5 at 15 km NW of Do?an?ehir, Turkey, located at GPS coordinates (38.1782, 37.7439).
+On 2023-02-06 14:33:07.461000, there was an earthquake of magnitude 4.5 at 5 km SSW of Do?an?ehir, Turkey, located at GPS coordinates (38.0365, 37.8572).
+On 2023-02-06 14:29:57.853000, there was an earthquake of magnitude 4.7 at 2 km S of Göksun, Turkey, located at GPS coordinates (37.9977, 36.4927).
+On 2023-02-06 14:27:43.394000, there was an earthquake of magnitude 4.5 at 2 km ENE of Hassa, Turkey, located at GPS coordinates (36.8097, 36.5387).
+On 2023-02-06 14:17:18.854000, there was an earthquake of magnitude 4.4 at 12 km SW of Nurhak, Turkey, located at GPS coordinates (37.8732, 37.3571).
+On 2023-02-06 14:10:09.968000, there was an earthquake of magnitude 4.5 at 8 km ESE of Ça?layancerit, Turkey, located at GPS coordinates (37.7257, 37.385).
+On 2023-02-06 14:04:49.444000, there was an earthquake of magnitude 4.4 at 4 km SW of Göksun, Turkey, located at GPS coordinates (37.9944, 36.4533).
+On 2023-02-06 14:03:08.489000, there was an earthquake of magnitude 4.3 at 13 km N of Do?an?ehir, Turkey, located at GPS coordinates (38.2079, 37.8768).
+On 2023-02-06 13:58:50.413000, there was an earthquake of magnitude 4.3 at Central Turkey, located at GPS coordinates (38.0588, 36.4642).
+On 2023-02-06 13:50:14.093000, there was an earthquake of magnitude 4.5 at 111 km NE of Tobelo, Indonesia, located at GPS coordinates (2.4404, 128.7157).
+On 2023-02-06 13:44:51.298000, there was an earthquake of magnitude 5.0 at 5 km ESE of Nurhak, Turkey, located at GPS coordinates (37.9405, 37.4916).
+On 2023-02-06 13:39:24.254000, there was an earthquake of magnitude 5.3 at 16 km WSW of Do?an?ehir, Turkey, located at GPS coordinates (38.0166, 37.7013).
+On 2023-02-06 13:36:08.640000, there was an earthquake of magnitude 4.2 at 5 km E of Uzunkavak, Turkey, located at GPS coordinates (36.3454, 36.4775).
+On 2023-02-06 13:33:15.653000, there was an earthquake of magnitude 4.2 at Central Turkey, located at GPS coordinates (37.9231, 37.5399).
+On 2023-02-06 13:32:17.073000, there was an earthquake of magnitude 4.3 at 10 km SSE of Malatya, Turkey, located at GPS coordinates (38.2669, 38.3801).
+On 2023-02-06 13:31:39.632000, there was an earthquake of magnitude 4.5 at 6 km NW of Uzunkavak, Turkey, located at GPS coordinates (36.3959, 36.3691).
+On 2023-02-06 13:22:01.325000, there was an earthquake of magnitude 4.4 at Central Turkey, located at GPS coordinates (38.0367, 37.3789).
+On 2023-02-06 13:17:42.209000, there was an earthquake of magnitude 4.9 at 10 km WSW of Göksun, Turkey, located at GPS coordinates (37.9951, 36.3843).
+On 2023-02-06 13:14:01.462000, there was an earthquake of magnitude 4.5 at 1 km NW of Tut, Turkey, located at GPS coordinates (37.8011, 37.9066).
+On 2023-02-06 13:12:27.843000, there was an earthquake of magnitude 4.8 at 12 km S of Göksun, Turkey, located at GPS coordinates (37.9077, 36.5237).
+On 2023-02-06 13:11:56.990000, there was an earthquake of magnitude 4.7 at 14 km E of Göksun, Turkey, located at GPS coordinates (38.0104, 36.6564).
+On 2023-02-06 13:09:21.093000, there was an earthquake of magnitude 4.6 at 4 km E of Kastal, Turkey, located at GPS coordinates (36.2541, 36.2923).
+On 2023-02-06 13:07:45.076000, there was an earthquake of magnitude 5.0 at Central Turkey, located at GPS coordinates (38.0384, 37.371).
+On 2023-02-06 13:06:39.750000, there was an earthquake of magnitude 4.5 at 10 km SE of Ekinözü, Turkey, located at GPS coordinates (37.991, 37.2762).
+On 2023-02-06 13:03:17.843000, there was an earthquake of magnitude 4.6 at 4 km NE of Nurhak, Turkey, located at GPS coordinates (37.9978, 37.4732).
+On 2023-02-06 13:02:39.070000, there was an earthquake of magnitude 4.5 at 24 km NNW of Temirlanovka, Kazakhstan, located at GPS coordinates (42.8119, 69.168).
+On 2023-02-06 13:00:18.127000, there was an earthquake of magnitude 4.5 at 19 km ENE of Göksun, Turkey, located at GPS coordinates (38.1156, 36.6841).
+On 2023-02-06 12:54:39.920000, there was an earthquake of magnitude 4.6 at 22 km SSW of Af?in, Turkey, located at GPS coordinates (38.0519, 36.864).
+On 2023-02-06 12:48:40.593000, there was an earthquake of magnitude 4.2 at 191 km NW of Tobelo, Indonesia, located at GPS coordinates (3.031, 126.8752).
+On 2023-02-06 12:48:01.449000, there was an earthquake of magnitude 4.3 at 23 km S of Af?in, Turkey, located at GPS coordinates (38.0382, 36.8659).
+On 2023-02-06 12:36:33.066000, there was an earthquake of magnitude 4.6 at Central Turkey, located at GPS coordinates (37.9664, 37.7885).
+On 2023-02-06 12:34:43.513000, there was an earthquake of magnitude 4.9 at 7 km N of Çelikhan, Turkey, located at GPS coordinates (38.0972, 38.2339).
+On 2023-02-06 12:32:48.345000, there was an earthquake of magnitude 4.0 at 18 km WSW of Çelikhan, Turkey, located at GPS coordinates (37.9345, 38.0571).
+On 2023-02-06 12:31:40.752000, there was an earthquake of magnitude 4.2 at 10 km SSE of Nurhak, Turkey, located at GPS coordinates (37.8798, 37.4824).
+On 2023-02-06 12:21:18.492000, there was an earthquake of magnitude 4.4 at 5 km NW of Göksun, Turkey, located at GPS coordinates (38.0621, 36.4541).
+On 2023-02-06 12:13:48.646000, there was an earthquake of magnitude 4.7 at 7 km SW of Nurhak, Turkey, located at GPS coordinates (37.9248, 37.3761).
+On 2023-02-06 12:07:32.722000, there was an earthquake of magnitude 4.4 at 8 km W of Göksun, Turkey, located at GPS coordinates (38.0169, 36.4016).
+On 2023-02-06 12:02:11.275000, there was an earthquake of magnitude 6.0 at 4 km NNE of Göksun, Turkey, located at GPS coordinates (38.0582, 36.5114).
+On 2023-02-06 11:58:37.429000, there was an earthquake of magnitude 4.7 at 14 km NE of Nurhak, Turkey, located at GPS coordinates (38.0509, 37.5686).
+On 2023-02-06 11:55:57.601000, there was an earthquake of magnitude 4.3 at 16 km ENE of Göksun, Turkey, located at GPS coordinates (38.0599, 36.6805).
+On 2023-02-06 11:51:22.063000, there was an earthquake of magnitude 4.5 at 15 km WSW of Do?an?ehir, Turkey, located at GPS coordinates (38.016, 37.7225).
+On 2023-02-06 11:50:04.398000, there was an earthquake of magnitude 4.5 at 14 km WSW of Göksun, Turkey, located at GPS coordinates (37.9721, 36.3402).
+On 2023-02-06 11:44:09.385000, there was an earthquake of magnitude 4.3 at eastern Turkey, located at GPS coordinates (38.1471, 38.0506).
+On 2023-02-06 11:39:41.665000, there was an earthquake of magnitude 4.8 at 7 km NE of Göksun, Turkey, located at GPS coordinates (38.0622, 36.5678).
+On 2023-02-06 11:35:28.583000, there was an earthquake of magnitude 4.5 at Central Turkey, located at GPS coordinates (37.9417, 37.351).
+On 2023-02-06 11:30:44.548000, there was an earthquake of magnitude 4.1 at 12 km NE of Do?an?ehir, Turkey, located at GPS coordinates (38.1794, 37.955).
+On 2023-02-06 11:28:33.812000, there was an earthquake of magnitude 4.2 at 22 km SW of Ekinözü, Turkey, located at GPS coordinates (37.9264, 36.9995).
+On 2023-02-06 11:28:01.235000, there was an earthquake of magnitude 4.3 at 10 km S of Çelikhan, Turkey, located at GPS coordinates (37.9321, 38.246).
+On 2023-02-06 11:20:24.969000, there was an earthquake of magnitude 4.1 at Central Turkey, located at GPS coordinates (38.0274, 37.7493).
+On 2023-02-06 11:15:49.769000, there was an earthquake of magnitude 3.8 at 1 km NE of West Seneca, New York, located at GPS coordinates (42.8605, -78.7853).
+On 2023-02-06 11:11:40.849000, there was an earthquake of magnitude 4.9 at 5 km W of Nurhak, Turkey, located at GPS coordinates (37.9593, 37.3732).
+On 2023-02-06 11:05:35.084000, there was an earthquake of magnitude 5.1 at 23 km SW of Af?in, Turkey, located at GPS coordinates (38.0752, 36.7588).
+On 2023-02-06 11:04:38.987000, there was an earthquake of magnitude 4.2 at 15 km ENE of Göksun, Turkey, located at GPS coordinates (38.0723, 36.6628).
+On 2023-02-06 11:04:07.452000, there was an earthquake of magnitude 4.1 at 41 km E of Farkh?r, Afghanistan, located at GPS coordinates (36.5065, 70.3144).
+On 2023-02-06 11:01:36.485000, there was an earthquake of magnitude 4.8 at 15 km S of Nurhak, Turkey, located at GPS coordinates (37.8259, 37.4436).
+On 2023-02-06 10:56:24.688000, there was an earthquake of magnitude 4.6 at 5 km W of Nurhak, Turkey, located at GPS coordinates (37.9728, 37.3801).
+On 2023-02-06 10:55:02.401000, there was an earthquake of magnitude 4.3 at Central Turkey, located at GPS coordinates (38.6244, 37.3766).
+On 2023-02-06 10:51:30.994000, there was an earthquake of magnitude 5.7 at 7 km SW of Ye?ilyurt, Turkey, located at GPS coordinates (38.248, 38.1847).
+On 2023-02-06 10:50:56.892000, there was an earthquake of magnitude 4.6 at Central Turkey, located at GPS coordinates (37.6189, 37.9263).
+On 2023-02-06 10:50:35.934000, there was an earthquake of magnitude 4.3 at 16 km NW of Tut, Turkey, located at GPS coordinates (37.9155, 37.8106).
+On 2023-02-06 10:47:41.873000, there was an earthquake of magnitude 4.7 at 13 km ENE of G?ksun, Turkey, located at GPS coordinates (38.0443, 36.644).
+On 2023-02-06 10:46:56.782000, there was an earthquake of magnitude 4.7 at 24 km SSW of Af?in, Turkey, located at GPS coordinates (38.039, 36.8385).
+On 2023-02-06 10:46:14.992000, there was an earthquake of magnitude 2.8 at 96 km E of Chignik, Alaska, located at GPS coordinates (56.472, -156.8694).
+On 2023-02-06 10:44:46.950000, there was an earthquake of magnitude 4.6 at 8 km SW of Do?an?ehir, Turkey, located at GPS coordinates (38.034, 37.7967).
+On 2023-02-06 10:38:57.715000, there was an earthquake of magnitude 4.5 at 12 km SW of Nurhak, Turkey, located at GPS coordinates (37.8722, 37.3582).
+On 2023-02-06 10:35:58.161000, there was an earthquake of magnitude 5.8 at 9 km SW of Do?an?ehir, Turkey, located at GPS coordinates (38.0249, 37.8023).
+On 2023-02-06 10:32:08.932000, there was an earthquake of magnitude 5.4 at 7 km S of Ekinözü, Turkey, located at GPS coordinates (37.9962, 37.2033).
+On 2023-02-06 10:26:46.742000, there was an earthquake of magnitude 6.0 at 12 km W of Çelikhan, Turkey, located at GPS coordinates (38.0315, 38.0984).
+On 2023-02-06 10:24:48.811000, there was an earthquake of magnitude 7.5 at Elbistan earthquake, Kahramanmaras earthquake sequence, located at GPS coordinates (38.0106, 37.1962).
+On 2023-02-06 10:15:16.065000, there was an earthquake of magnitude 2.8 at 89 km S of False Pass, Alaska, located at GPS coordinates (54.0523, -163.4876).
+On 2023-02-06 10:12:17.438000, there was an earthquake of magnitude 4.4 at 13 km SE of Çelikhan, Turkey, located at GPS coordinates (37.9287, 38.3323).
+On 2023-02-06 10:07:31.339000, there was an earthquake of magnitude 4.6 at 11 km SE of Yaylada??, Turkey, located at GPS coordinates (35.8319, 36.162).
+On 2023-02-06 09:53:42.790000, there was an earthquake of magnitude 2.88 at 19km WSW of Ferndale, CA, located at GPS coordinates (40.5401667, -124.489).
+On 2023-02-06 09:52:12.896000, there was an earthquake of magnitude 4.5 at Kuril Islands, located at GPS coordinates (45.1685, 149.766).
+On 2023-02-06 09:51:27.268000, there was an earthquake of magnitude 4.3 at 61 km NW of Curup, Indonesia, located at GPS coordinates (-3.1461, 102.0758).
+On 2023-02-06 09:48:45.420000, there was an earthquake of magnitude 4.4 at 14 km ESE of Pertek, Turkey, located at GPS coordinates (38.8229, 39.4835).
+On 2023-02-06 09:39:21.140000, there was an earthquake of magnitude 3.18 at Island of Hawaii, Hawaii, located at GPS coordinates (19.182, -155.509166666667).
+On 2023-02-06 09:36:17.151000, there was an earthquake of magnitude 4.3 at Central Turkey, located at GPS coordinates (37.3147, 36.7946).
+On 2023-02-06 09:23:45.448000, there was an earthquake of magnitude 4.6 at 15 km NNW of Hassa, Turkey, located at GPS coordinates (36.9214, 36.427).
+On 2023-02-06 09:21:01.495000, there was an earthquake of magnitude 4.5 at 7 km SE of Tut, Turkey, located at GPS coordinates (37.7583, 37.9812).
+On 2023-02-06 09:05:49.435000, there was an earthquake of magnitude 3.0 at 219 km S of False Pass, Alaska, located at GPS coordinates (52.8864, -163.1798).
+On 2023-02-06 09:01:22.235000, there was an earthquake of magnitude 4.3 at 212 km N of Sola, Vanuatu, located at GPS coordinates (-11.9682, 167.3363).
+On 2023-02-06 08:58:34.938000, there was an earthquake of magnitude 4.5 at 2 km NE of Çelikhan, Turkey, located at GPS coordinates (38.0402, 38.2553).
+On 2023-02-06 08:52:37.361000, there was an earthquake of magnitude 4.8 at Central Turkey, located at GPS coordinates (37.4633, 37.2102).
+On 2023-02-06 08:38:45.283000, there was an earthquake of magnitude 4.4 at 56 km WSW of Calingasta, Argentina, located at GPS coordinates (-31.5961, -69.9343).
+On 2023-02-06 08:26:39.492000, there was an earthquake of magnitude 4.0 at 11 km WNW of Uzunba?, Turkey, located at GPS coordinates (36.1795, 35.9229).
+On 2023-02-06 08:25:23.732000, there was an earthquake of magnitude 4.4 at 176 km S of Lorengau, Papua New Guinea, located at GPS coordinates (-3.6236, 147.1525).
+On 2023-02-06 08:12:52.583000, there was an earthquake of magnitude 4.4 at 44 km W of Latakia, Syria, located at GPS coordinates (35.6075, 35.3088).
+On 2023-02-06 08:01:47.818000, there was an earthquake of magnitude 4.5 at 14 km NNE of K?r?khan, Turkey, located at GPS coordinates (36.6219, 36.4225).
+On 2023-02-06 07:54:39.189000, there was an earthquake of magnitude 4.3 at 19 km WNW of Latakia, Syria, located at GPS coordinates (35.5907, 35.5841).
+On 2023-02-06 07:48:34.269000, there was an earthquake of magnitude 4.3 at 139 km N of Calama, Chile, located at GPS coordinates (-21.2012, -69.0335).
+On 2023-02-06 07:42:22.683000, there was an earthquake of magnitude 4.6 at 79 km NE of Luwuk, Indonesia, located at GPS coordinates (-0.3604, 123.1891).
+On 2023-02-06 07:41:14.046000, there was an earthquake of magnitude 4.6 at eastern Turkey, located at GPS coordinates (37.8718, 38.0812).
+On 2023-02-06 07:29:40.592000, there was an earthquake of magnitude 4.5 at 28 km WNW of Latakia, Syria, located at GPS coordinates (35.6445, 35.5034).
+On 2023-02-06 07:24:13.862000, there was an earthquake of magnitude 4.3 at 5 km SSE of Dörtyol, Turkey, located at GPS coordinates (36.7978, 36.2602).
+On 2023-02-06 07:11:32.497000, there was an earthquake of magnitude 4.9 at 88 km NNW of Pototano, Indonesia, located at GPS coordinates (-7.6791, 117.1506).
+On 2023-02-06 07:10:09.617000, there was an earthquake of magnitude 4.2 at 10 km NNW of K?r?khan, Turkey, located at GPS coordinates (36.595, 36.3297).
+On 2023-02-06 07:08:32.392000, there was an earthquake of magnitude 4.5 at 11 km SW of Hassa, Turkey, located at GPS coordinates (36.7139, 36.4459).
+On 2023-02-06 07:06:21.295000, there was an earthquake of magnitude 2.6 at 7 km SW of Akutan, Alaska, located at GPS coordinates (54.0883, -165.8572).
+On 2023-02-06 06:59:05.328000, there was an earthquake of magnitude 4.2 at 18 km SE of Kahramanmara?, Turkey, located at GPS coordinates (37.47, 37.0824).
+On 2023-02-06 06:54:57.430000, there was an earthquake of magnitude 4.8 at 14 km SE of Ça?layancerit, Turkey, located at GPS coordinates (37.6427, 37.394).
+On 2023-02-06 06:27:52.742000, there was an earthquake of magnitude 4.5 at 3 km NNW of Çelikhan, Turkey, located at GPS coordinates (38.0564, 38.2173).
+On 2023-02-06 06:26:28.168000, there was an earthquake of magnitude 4.6 at 16 km SW of Pazarc?k, Turkey, located at GPS coordinates (37.3961, 37.1506).
+On 2023-02-06 06:18:02.484000, there was an earthquake of magnitude 4.4 at 16 km NE of Çelikhan, Turkey, located at GPS coordinates (38.1199, 38.3761).
+On 2023-02-06 06:14:38.909000, there was an earthquake of magnitude 4.3 at 19 km S of Kahramanmara?, Turkey, located at GPS coordinates (37.4072, 36.9513).
+On 2023-02-06 05:55:49.697000, there was an earthquake of magnitude 4.5 at 19 km SW of Sincik, Turkey, located at GPS coordinates (37.9201, 38.4457).
+On 2023-02-06 05:44:55.583000, there was an earthquake of magnitude 4.4 at Turkey-Syria border region, located at GPS coordinates (36.3265, 36.4042).
+On 2023-02-06 05:43:49.888000, there was an earthquake of magnitude 4.6 at 3 km S of Büyük Dalyan, Turkey, located at GPS coordinates (36.2606, 36.2043).
+On 2023-02-06 05:40:38.044000, there was an earthquake of magnitude 4.5 at 12 km S of Çelikhan, Turkey, located at GPS coordinates (37.9116, 38.2366).
+On 2023-02-06 05:36:33.636000, there was an earthquake of magnitude 4.6 at 1 km N of Büyük Dalyan, Turkey, located at GPS coordinates (36.2975, 36.2085).
+On 2023-02-06 05:35:21.339000, there was an earthquake of magnitude 4.4 at 6 km N of Serinyol, Turkey, located at GPS coordinates (36.4188, 36.2183).
+On 2023-02-06 05:33:10.998000, there was an earthquake of magnitude 4.6 at 7 km N of Çelikhan, Turkey, located at GPS coordinates (38.0957, 38.2361).
+On 2023-02-06 05:31:22.169000, there was an earthquake of magnitude 4.4 at 17 km W of Çelikhan, Turkey, located at GPS coordinates (38.0053, 38.042).
+On 2023-02-06 05:22:44.551000, there was an earthquake of magnitude 4.4 at 12 km E of Yavuzeli, Turkey, located at GPS coordinates (37.3082, 37.7106).
+On 2023-02-06 05:19:48.566000, there was an earthquake of magnitude 4.1 at 6 km E of Çelikhan, Turkey, located at GPS coordinates (38.0197, 38.3054).
+On 2023-02-06 05:16:55.953000, there was an earthquake of magnitude 4.1 at 11 km W of Tut, Turkey, located at GPS coordinates (37.7999, 37.7821).
+On 2023-02-06 05:12:52.692000, there was an earthquake of magnitude 4.4 at 9 km W of Pazarc?k, Turkey, located at GPS coordinates (37.4966, 37.1888).
+On 2023-02-06 05:04:31.901000, there was an earthquake of magnitude 4.2 at 23 km WSW of Pazarc?k, Turkey, located at GPS coordinates (37.3768, 37.0793).
+On 2023-02-06 05:01:50.591000, there was an earthquake of magnitude 4.6 at 5 km W of Tut, Turkey, located at GPS coordinates (37.7898, 37.8568).
+On 2023-02-06 04:56:05.491000, there was an earthquake of magnitude 4.5 at 12 km WSW of Pazarc?k, Turkey, located at GPS coordinates (37.4609, 37.1603).
+On 2023-02-06 04:47:57.170000, there was an earthquake of magnitude 4.5 at 9 km SSW of Hassa, Turkey, located at GPS coordinates (36.7176, 36.4733).
+On 2023-02-06 04:39:47.868000, there was an earthquake of magnitude 4.3 at 14 km ENE of Ça?layancerit, Turkey, located at GPS coordinates (37.7907, 37.4444).
+On 2023-02-06 04:31:23.899000, there was an earthquake of magnitude 4.4 at 2 km NE of Uzunkavak, Turkey, located at GPS coordinates (36.3649, 36.4413).
+On 2023-02-06 04:31:02.298000, there was an earthquake of magnitude 4.3 at 19 km NE of Nurda??, Turkey, located at GPS coordinates (37.2919, 36.8854).
+On 2023-02-06 04:24:45.154000, there was an earthquake of magnitude 4.1 at 11 km NW of Pazarc?k, Turkey, located at GPS coordinates (37.555, 37.2001).
+On 2023-02-06 04:24:23.714000, there was an earthquake of magnitude 3.2 at 53 km NE of Ugashik, Alaska, located at GPS coordinates (57.8422, -156.7554).
+On 2023-02-06 04:18:46.986000, there was an earthquake of magnitude 5.0 at 17 km NNW of Sincik, Turkey, located at GPS coordinates (38.1845, 38.5342).
+On 2023-02-06 04:16:49.374000, there was an earthquake of magnitude 4.5 at Central Turkey, located at GPS coordinates (37.5236, 37.2784).
+On 2023-02-06 04:14:17.612000, there was an earthquake of magnitude 4.4 at 16 km N of Sincik, Turkey, located at GPS coordinates (38.1847, 38.6102).
+On 2023-02-06 04:07:22.967000, there was an earthquake of magnitude 3.2 at 299 km WSW of Adak, Alaska, located at GPS coordinates (51.0184, 179.2792).
+On 2023-02-06 04:05:56.670000, there was an earthquake of magnitude 4.2 at 18 km ESE of Nurda??, Turkey, located at GPS coordinates (37.0844, 36.9133).
+On 2023-02-06 04:05:15.992000, there was an earthquake of magnitude 4.1 at 15 km E of Ça?layancerit, Turkey, located at GPS coordinates (37.7658, 37.4588).
+On 2023-02-06 04:04:22.647000, there was an earthquake of magnitude 4.4 at 13 km NE of Ça?layancerit, Turkey, located at GPS coordinates (37.8315, 37.3919).
+On 2023-02-06 03:58:19.868000, there was an earthquake of magnitude 4.3 at 17 km NNE of K?r?khan, Turkey, located at GPS coordinates (36.6427, 36.426).
+On 2023-02-06 03:55:10.580000, there was an earthquake of magnitude 4.2 at 20 km S of Kahramanmara?, Turkey, located at GPS coordinates (37.3982, 36.8946).
+On 2023-02-06 03:54:00.586000, there was an earthquake of magnitude 4.3 at Central Turkey, located at GPS coordinates (37.7604, 37.4251).
+On 2023-02-06 03:45:48.353000, there was an earthquake of magnitude 4.8 at 14 km NNE of Sincik, Turkey, located at GPS coordinates (38.1656, 38.65).
+On 2023-02-06 03:41:28.306000, there was an earthquake of magnitude 4.3 at 30 km NW of Gaziantep, Turkey, located at GPS coordinates (37.2442, 37.1335).
+On 2023-02-06 03:35:39.215000, there was an earthquake of magnitude 4.2 at 21 km SE of Malatya, Turkey, located at GPS coordinates (38.2368, 38.5132).
+On 2023-02-06 03:32:15.714000, there was an earthquake of magnitude 4.2 at 177 km W of Naha, Japan, located at GPS coordinates (26.5281, 125.9397).
+On 2023-02-06 03:30:00.256000, there was an earthquake of magnitude 4.2 at 15 km S of Nurda??, Turkey, located at GPS coordinates (37.0297, 36.7506).
+On 2023-02-06 03:28:45.962000, there was an earthquake of magnitude 4.4 at 5 km NW of Sincik, Turkey, located at GPS coordinates (38.0773, 38.5775).
+On 2023-02-06 03:24:30.161000, there was an earthquake of magnitude 4.4 at 16 km NNW of Tut, Turkey, located at GPS coordinates (37.9268, 37.8357).
+On 2023-02-06 03:22:44.992000, there was an earthquake of magnitude 4.3 at 12 km NNW of Sincik, Turkey, located at GPS coordinates (38.1446, 38.558).
+On 2023-02-06 03:19:15.155000, there was an earthquake of magnitude 4.0 at 12 km E of Ça?layancerit, Turkey, located at GPS coordinates (37.733, 37.4257).
+On 2023-02-06 03:16:16.646000, there was an earthquake of magnitude 4.3 at 11 km WNW of Sincik, Turkey, located at GPS coordinates (38.0715, 38.4951).
+On 2023-02-06 03:12:11.339000, there was an earthquake of magnitude 4.5 at 2 km ENE of Pazarc?k, Turkey, located at GPS coordinates (37.5003, 37.3267).
+On 2023-02-06 03:10:20.089000, there was an earthquake of magnitude 4.4 at 5 km WNW of Besni, Turkey, located at GPS coordinates (37.7127, 37.8001).
+On 2023-02-06 03:07:23.774000, there was an earthquake of magnitude 2.6 at 63 km E of Pedro Bay, Alaska, located at GPS coordinates (59.768, -152.9719).
+On 2023-02-06 03:07:16.454000, there was an earthquake of magnitude 4.0 at 32 km E of Palca, Peru, located at GPS coordinates (-17.722, -69.6588).
+On 2023-02-06 03:04:45.269000, there was an earthquake of magnitude 4.7 at 19 km NW of Sincik, Turkey, located at GPS coordinates (38.1742, 38.482).
+On 2023-02-06 03:02:18.228000, there was an earthquake of magnitude 4.4 at 18 km NW of Tut, Turkey, located at GPS coordinates (37.9204, 37.7822).
+On 2023-02-06 03:01:14.387000, there was an earthquake of magnitude 4.1 at 19 km NW of Sincik, Turkey, located at GPS coordinates (38.1475, 38.435).
+On 2023-02-06 02:56:51.520000, there was an earthquake of magnitude 4.4 at 6 km NE of Keban, Turkey, located at GPS coordinates (38.8297, 38.8005).
+On 2023-02-06 02:55:55.570000, there was an earthquake of magnitude 2.74 at 2 km N of Guayanilla, Puerto Rico, located at GPS coordinates (18.0456666666667, -66.791).
+On 2023-02-06 02:54:00.446000, there was an earthquake of magnitude 4.7 at 14 km ENE of Denizciler, Turkey, located at GPS coordinates (36.7084, 36.3519).
+On 2023-02-06 02:52:14.949000, there was an earthquake of magnitude 4.2 at eastern Turkey, located at GPS coordinates (38.5461, 40.4563).
+On 2023-02-06 02:43:47.299000, there was an earthquake of magnitude 4.2 at 12 km WNW of Hassa, Turkey, located at GPS coordinates (36.8497, 36.3895).
+On 2023-02-06 02:38:44.305000, there was an earthquake of magnitude 4.2 at 15 km NE of Ad?yaman, Turkey, located at GPS coordinates (37.8697, 38.3908).
+On 2023-02-06 02:34:51.505000, there was an earthquake of magnitude 4.7 at 24 km NNE of Musabeyli, Turkey, located at GPS coordinates (37.0822, 37.0363).
+On 2023-02-06 02:34:18.119000, there was an earthquake of magnitude 4.3 at 6 km W of Pazarc?k, Turkey, located at GPS coordinates (37.4941, 37.2266).
+On 2023-02-06 02:33:28.446000, there was an earthquake of magnitude 4.4 at 13 km NW of Sincik, Turkey, located at GPS coordinates (38.1084, 38.495).
+On 2023-02-06 02:32:08.686000, there was an earthquake of magnitude 4.5 at 15 km WNW of Pazarc?k, Turkey, located at GPS coordinates (37.5639, 37.1467).
+On 2023-02-06 02:31:26.171000, there was an earthquake of magnitude 4.5 at 21 km SSW of Kahramanmara?, Turkey, located at GPS coordinates (37.4137, 36.8216).
+On 2023-02-06 02:30:54.090000, there was an earthquake of magnitude 3.25 at 10 km NE of P?hala, Hawaii, located at GPS coordinates (19.2673333333333, -155.404333333333).
+On 2023-02-06 02:28:43.721000, there was an earthquake of magnitude 4.1 at Central Turkey, located at GPS coordinates (37.4292, 36.9502).
+On 2023-02-06 02:23:14.336000, there was an earthquake of magnitude 5.3 at 20 km E of Nurda??, Turkey, located at GPS coordinates (37.1816, 36.9658).
+On 2023-02-06 02:22:37.823000, there was an earthquake of magnitude 4.8 at Kermadec Islands, New Zealand, located at GPS coordinates (-30.6076, -178.0254).
+On 2023-02-06 02:21:20.561000, there was an earthquake of magnitude 4.2 at 20 km SE of Kahramanmara?, Turkey, located at GPS coordinates (37.4358, 37.0658).
+On 2023-02-06 02:17:40.715000, there was an earthquake of magnitude 4.8 at 7 km S of Nurda??, Turkey, located at GPS coordinates (37.1024, 36.7301).
+On 2023-02-06 02:16:09.128000, there was an earthquake of magnitude 4.2 at 18 km SE of Kahramanmara?, Turkey, located at GPS coordinates (37.4468, 37.0449).
+On 2023-02-06 02:13:40.815000, there was an earthquake of magnitude 4.2 at 16 km NE of Nurda??, Turkey, located at GPS coordinates (37.2863, 36.8539).
+On 2023-02-06 02:11:48.911000, there was an earthquake of magnitude 4.1 at 11 km S of Çelikhan, Turkey, located at GPS coordinates (37.9265, 38.2237).
+On 2023-02-06 02:10:16.832000, there was an earthquake of magnitude 4.4 at 15 km NNW of Sincik, Turkey, located at GPS coordinates (38.1562, 38.5195).
+On 2023-02-06 02:06:46.953000, there was an earthquake of magnitude 4.6 at Kermadec Islands region, located at GPS coordinates (-30.9859, -179.2848).
+On 2023-02-06 02:06:23.457000, there was an earthquake of magnitude 5.0 at 19 km NE of Tut, Turkey, located at GPS coordinates (37.9227, 38.0613).
+On 2023-02-06 02:03:37.341000, there was an earthquake of magnitude 5.3 at Central Turkey, located at GPS coordinates (37.7712, 37.9141).
+On 2023-02-06 02:01:45.687000, there was an earthquake of magnitude 4.8 at 23 km SW of Pazarc?k, Turkey, located at GPS coordinates (37.3512, 37.095).
+On 2023-02-06 02:01:18.994000, there was an earthquake of magnitude 4.5 at 6 km WNW of Besni, Turkey, located at GPS coordinates (37.7238, 37.8026).
+On 2023-02-06 01:58:23.118000, there was an earthquake of magnitude 5.1 at 12 km SSE of Hasanbeyli, Turkey, located at GPS coordinates (37.0302, 36.6208).
+On 2023-02-06 01:57:26.332000, there was an earthquake of magnitude 4.7 at 57 km W of B?niy?s, Syria, located at GPS coordinates (35.1453, 35.3142).
+On 2023-02-06 01:56:29.834000, there was an earthquake of magnitude 4.3 at 7 km ESE of Ça?layancerit, Turkey, located at GPS coordinates (37.7175, 37.3615).
+On 2023-02-06 01:55:41.029000, there was an earthquake of magnitude 4.4 at 2 km ENE of Bahçe, Turkey, located at GPS coordinates (37.2073, 36.5988).
+On 2023-02-06 01:54:36.565000, there was an earthquake of magnitude 4.4 at 3 km W of Serinyol, Turkey, located at GPS coordinates (36.3603, 36.1708).
+On 2023-02-06 01:51:43.490000, there was an earthquake of magnitude 4.7 at 12 km W of Pazarc?k, Turkey, located at GPS coordinates (37.4756, 37.1578).
+On 2023-02-06 01:51:19.056000, there was an earthquake of magnitude 4.5 at 8 km SE of A?a?? Karafak?l?, Turkey, located at GPS coordinates (36.7205, 36.6192).
+On 2023-02-06 01:50:10.207000, there was an earthquake of magnitude 4.8 at 25 km NNE of Sincik, Turkey, located at GPS coordinates (38.2407, 38.7424).
+On 2023-02-06 01:48:12.210000, there was an earthquake of magnitude 4.9 at 9 km WSW of Çelikhan, Turkey, located at GPS coordinates (37.9828, 38.1435).
+On 2023-02-06 01:47:43.761000, there was an earthquake of magnitude 4.6 at 15 km S of Genç, Turkey, located at GPS coordinates (38.6055, 40.5767).
+On 2023-02-06 01:45:28.966000, there was an earthquake of magnitude 3.0 at 125 km S of King Cove, Alaska, located at GPS coordinates (53.9419, -162.1361).
+On 2023-02-06 01:41:15.211000, there was an earthquake of magnitude 4.6 at 10 km SW of Sincik, Turkey, located at GPS coordinates (37.9792, 38.5117).
+On 2023-02-06 01:40:48.558000, there was an earthquake of magnitude 4.7 at 14 km SSW of A?a?? Karafak?l?, Turkey, located at GPS coordinates (36.6696, 36.4767).
+On 2023-02-06 01:36:27.357000, there was an earthquake of magnitude 5.6 at Turkey-Syria border region, located at GPS coordinates (36.9921, 36.6832).
+On 2023-02-06 01:28:15.784000, there was an earthquake of magnitude 6.7 at 14 km E of Nurda??, Turkey, located at GPS coordinates (37.1893, 36.8929).
+On 2023-02-06 01:26:50.869000, there was an earthquake of magnitude 5.7 at 24 km ENE of Nurda??, Turkey, located at GPS coordinates (37.2252, 37.0001).
+On 2023-02-06 01:17:34.342000, there was an earthquake of magnitude 7.8 at Pazarcik earthquake, Kahramanmaras earthquake sequence, located at GPS coordinates (37.2256, 37.0143).
+On 2023-02-06 01:04:49.194000, there was an earthquake of magnitude 3.9 at 89 km ENE of Nikolski, Alaska, located at GPS coordinates (53.174, -167.5779).
+On 2023-02-06 00:51:39.856000, there was an earthquake of magnitude 4.4 at 36 km NNE of Cubará, Colombia, located at GPS coordinates (7.3231, -72.0272).
+On 2023-02-06 00:27:24.108000, there was an earthquake of magnitude 3.0 at 165 km W of Ferndale, California, located at GPS coordinates (40.4281, -126.2056).
+On 2023-02-06 00:15:14.104000, there was an earthquake of magnitude 4.2 at south of the Fiji Islands, located at GPS coordinates (-25.1986, -178.8907).

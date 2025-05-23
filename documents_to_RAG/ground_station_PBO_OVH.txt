@@ -1,0 +1,63 @@
+Plate Boundary Observatory (PBO) OVH ground stations continuously collect high-precision GPS data, which is used for:
+
+    Monitoring tectonic plate movements and crustal deformation
+    Studying atmospheric conditions, including water vapor content
+    Providing reference data for precise positioning applications
+    Atmospheric and ionospheric studies,
+   
+    Here, the list of ground stations that you can use for have positions for analyse STEC 
+    A STEC (Slant Total Electron Content) greater than 0.1 (in TECU units, which is 10^16 electrons/m²) 
+    is often considered to indicate significant disturbances in the ionosphere. 
+
+    When you read a STEC value from a file, you refer to the GPS ground station to determine the geographical region of the ionospheric disturbance.
+    Here you can find a list of earth ground station used for all measure for STEC.
+The ground station named ABPO is located at GPS coordinates 47.23° degrees longitude and -19.02 degrees latitude.
+The ground station named APO1 is located at GPS coordinates -105.82° degrees longitude and 32.78 degrees latitude.
+The ground station named AREQ is located at GPS coordinates -71.49° degrees longitude and -16.47 degrees latitude.
+The ground station named ARHT is located at GPS coordinates 166.66° degrees longitude and -77.83 degrees latitude.
+The ground station named ARUC is located at GPS coordinates 44.09° degrees longitude and 40.29 degrees latitude.
+The ground station named BOGT is located at GPS coordinates -74.08° degrees longitude and 4.64 degrees latitude.
+The ground station named BREW is located at GPS coordinates -119.68° degrees longitude and 48.13 degrees latitude.
+The ground station named BSHM is located at GPS coordinates 35.02° degrees longitude and 32.78 degrees latitude.
+The ground station named CHPI is located at GPS coordinates -44.99° degrees longitude and -22.69 degrees latitude.
+The ground station named CORD is located at GPS coordinates -64.47° degrees longitude and -31.53 degrees latitude.
+The ground station named CRO1 is located at GPS coordinates -64.58° degrees longitude and 17.76 degrees latitude.
+The ground station named CUSV is located at GPS coordinates 100.53° degrees longitude and 13.74 degrees latitude.
+The ground station named DGAR is located at GPS coordinates 72.37° degrees longitude and -7.27 degrees latitude.
+The ground station named FAIR is located at GPS coordinates -147.50° degrees longitude and 64.98 degrees latitude.
+The ground station named FALK is located at GPS coordinates -57.87° degrees longitude and -51.69 degrees latitude.
+The ground station named GARN is located at GPS coordinates 44.74° degrees longitude and 40.15 degrees latitude.
+The ground station named GLPS is located at GPS coordinates -90.30° degrees longitude and -0.74 degrees latitude.
+The ground station named GUAM is located at GPS coordinates 144.87° degrees longitude and 13.59 degrees latitude.
+The ground station named HAL1 is located at GPS coordinates -156.26° degrees longitude and 20.71 degrees latitude.
+The ground station named HAL2 is located at GPS coordinates -156.26° degrees longitude and 20.71 degrees latitude.
+The ground station named HRAO is located at GPS coordinates 27.69° degrees longitude and -25.89 degrees latitude.
+The ground station named IISC is located at GPS coordinates 77.57° degrees longitude and 13.02 degrees latitude.
+The ground station named ISPA is located at GPS coordinates -109.34° degrees longitude and -27.12 degrees latitude.
+The ground station named KOKB is located at GPS coordinates -159.66° degrees longitude and 22.13 degrees latitude.
+The ground station named MBAR is located at GPS coordinates 30.74° degrees longitude and -0.60 degrees latitude.
+The ground station named MCM4 is located at GPS coordinates 166.67° degrees longitude and -77.84 degrees latitude.
+The ground station named MDO1 is located at GPS coordinates -104.01° degrees longitude and 30.68 degrees latitude.
+The ground station named MET2 is located at GPS coordinates 24.40° degrees longitude and 60.22 degrees latitude.
+The ground station named MGO3 is located at GPS coordinates -104.02° degrees longitude and 30.68 degrees latitude.
+The ground station named MGO4 is located at GPS coordinates -104.02° degrees longitude and 30.68 degrees latitude.
+The ground station named MKEA is located at GPS coordinates -155.46° degrees longitude and 19.80 degrees latitude.
+The ground station named MOIU is located at GPS coordinates 35.29° degrees longitude and 0.29 degrees latitude.
+The ground station named NATL is located at GPS coordinates -35.21° degrees longitude and -5.84 degrees latitude.
+The ground station named NLIB is located at GPS coordinates -91.57° degrees longitude and 41.77 degrees latitude.
+The ground station named NYAC is located at GPS coordinates 11.87° degrees longitude and 78.93 degrees latitude.
+The ground station named PALM is located at GPS coordinates -64.05° degrees longitude and -64.78 degrees latitude.
+The ground station named PIE1 is located at GPS coordinates -108.12° degrees longitude and 34.30 degrees latitude.
+The ground station named PIMO is located at GPS coordinates 121.08° degrees longitude and 14.64 degrees latitude.
+The ground station named POL2 is located at GPS coordinates 74.69° degrees longitude and 42.68 degrees latitude.
+The ground station named QUIN is located at GPS coordinates -120.94° degrees longitude and 39.97 degrees latitude.
+The ground station named RABT is located at GPS coordinates -6.85° degrees longitude and 34.00 degrees latitude.
+The ground station named RTS2 is located at GPS coordinates -104.02° degrees longitude and 30.68 degrees latitude.
+The ground station named SANT is located at GPS coordinates -70.67° degrees longitude and -33.15 degrees latitude.
+The ground station named SEY2 is located at GPS coordinates 55.48° degrees longitude and -4.67 degrees latitude.
+The ground station named STHL is located at GPS coordinates -5.67° degrees longitude and -15.94 degrees latitude.
+The ground station named SUTH is located at GPS coordinates 20.81° degrees longitude and -32.38 degrees latitude.
+The ground station named USUD is located at GPS coordinates 138.36° degrees longitude and 36.13 degrees latitude.
+The ground station named VACS is located at GPS coordinates 57.50° degrees longitude and -20.30 degrees latitude.
+The ground station named YKRO is located at GPS coordinates -5.24° degrees longitude and 6.87 degrees latitude.
+The ground station named ZAMB is located at GPS coordinates 28.31° degrees longitude and -15.43 degrees latitude.

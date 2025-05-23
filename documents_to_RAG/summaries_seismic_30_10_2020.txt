@@ -1,0 +1,548 @@
+On 2020-11-04 23:49:08.438000, there was an earthquake of magnitude 4.2 at 76 km N of Antofagasta, Chile, located at GPS coordinates (-22.9761, -70.2553).
+On 2020-11-04 22:35:07.329000, there was an earthquake of magnitude 3.0 at 107 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4654, -159.7682).
+On 2020-11-04 22:21:49.702000, there was an earthquake of magnitude 5.2 at 56 km SW of Pelabuhanratu, Indonesia, located at GPS coordinates (-7.3061, 106.1567).
+On 2020-11-04 22:12:49.320000, there was an earthquake of magnitude 2.65 at 2 km NNW of Indios, Puerto Rico, located at GPS coordinates (18.0141, -66.8298).
+On 2020-11-04 22:00:27.951000, there was an earthquake of magnitude 4.3 at Fiji region, located at GPS coordinates (-15.7025, -177.0116).
+On 2020-11-04 21:33:53.490000, there was an earthquake of magnitude 3.34 at 11 km S of Fern Forest, Hawaii, located at GPS coordinates (19.3585, -155.133166666667).
+On 2020-11-04 20:51:10.629000, there was an earthquake of magnitude 3.1 at 151 km SSE of Sand Point, Alaska, located at GPS coordinates (54.0664, -159.6582).
+On 2020-11-04 20:37:45.450000, there was an earthquake of magnitude 3.0 at 74 km SE of Akutan, Alaska, located at GPS coordinates (53.6697, -164.9612).
+On 2020-11-04 20:26:40.692000, there was an earthquake of magnitude 3.2 at 14 km SSE of Wright, Wyoming, located at GPS coordinates (43.6409, -105.3951).
+On 2020-11-04 19:54:58.287000, there was an earthquake of magnitude 4.5 at 91 km SW of San Juan del Sur, Nicaragua, located at GPS coordinates (10.7466, -86.5375).
+On 2020-11-04 19:47:55.901000, there was an earthquake of magnitude 2.9 at south of Alaska, located at GPS coordinates (54.7073, -159.9434).
+On 2020-11-04 19:09:21.657000, there was an earthquake of magnitude 4.0 at 81 km NW of Manado, Indonesia, located at GPS coordinates (2.09, 124.4306).
+On 2020-11-04 18:47:32.664000, there was an earthquake of magnitude 4.5 at 40 km SSW of Soufrière, Dominica, located at GPS coordinates (14.9218, -61.5476).
+On 2020-11-04 18:27:48.797000, there was an earthquake of magnitude 5.0 at 5 km NW of Santa Monica, Philippines, located at GPS coordinates (10.0607, 126.0084).
+On 2020-11-04 18:06:32.592000, there was an earthquake of magnitude 2.6 at 10 km N of Healy, AK, located at GPS coordinates (63.9497, -148.9335).
+On 2020-11-04 17:51:57.101000, there was an earthquake of magnitude 4.5 at 22 km SSE of Kyurdarmir, Azerbaijan, located at GPS coordinates (40.1588, 48.2776).
+On 2020-11-04 17:45:11.370000, there was an earthquake of magnitude 4.4 at 51 km SE of Boca de Yuma, Dominican Republic, located at GPS coordinates (18.0815, -68.2286).
+On 2020-11-04 17:24:16.350000, there was an earthquake of magnitude 2.86 at 6 km S of Guánica, Puerto Rico, located at GPS coordinates (17.9156, -66.9066).
+On 2020-11-04 17:14:56.020000, there was an earthquake of magnitude 2.52 at 14 km S of Fern Forest, Hawaii, located at GPS coordinates (19.3355, -155.131833333333).
+On 2020-11-04 16:58:17.985000, there was an earthquake of magnitude 2.7 at 90 km SSE of Sand Point, Alaska, located at GPS coordinates (54.6455, -159.7585).
+On 2020-11-04 16:26:16.260000, there was an earthquake of magnitude 3.48 at 54 km ENE of Saint Croix, U.S. Virgin Islands, located at GPS coordinates (17.8738, -64.2515).
+On 2020-11-04 14:20:39.419000, there was an earthquake of magnitude 2.6 at 14 km SSE of Womens Bay, AK, located at GPS coordinates (57.565, -152.5902).
+On 2020-11-04 14:08:45.777000, there was an earthquake of magnitude 2.6 at 146 km WSW of Adak, Alaska, located at GPS coordinates (51.1673, -178.4182).
+On 2020-11-04 13:34:54.342000, there was an earthquake of magnitude 4.5 at 191 km WNW of Lautoka, Fiji, located at GPS coordinates (-17.2797, 175.6833).
+On 2020-11-04 13:34:22.750000, there was an earthquake of magnitude 2.8 at 64 km SSE of Akutan, Alaska, located at GPS coordinates (53.6125, -165.3546).
+On 2020-11-04 13:21:31.439000, there was an earthquake of magnitude 4.2 at 6 km ENE of Megálo Chorió, Greece, located at GPS coordinates (37.4894, 27.0398).
+On 2020-11-04 13:13:40.500000, there was an earthquake of magnitude 3.2 at Rat Islands, Aleutian Islands, Alaska, located at GPS coordinates (51.7078, 178.6324).
+On 2020-11-04 12:58:46.564000, there was an earthquake of magnitude 4.1 at 35 km NE of Kainantu, Papua New Guinea, located at GPS coordinates (-6.091, 146.1131).
+On 2020-11-04 12:50:52.373000, there was an earthquake of magnitude 4.0 at Fiji region, located at GPS coordinates (-17.307, -177.7672).
+On 2020-11-04 12:47:08.584000, there was an earthquake of magnitude 2.6 at 100 km SE of Sand Point, Alaska, located at GPS coordinates (54.6242, -159.5457).
+On 2020-11-04 12:33:06.825000, there was an earthquake of magnitude 3.1 at 123 km WSW of Adak, Alaska, located at GPS coordinates (51.2845, -178.1499).
+On 2020-11-04 12:28:42.280000, there was an earthquake of magnitude 5.3 at southeast of Easter Island, located at GPS coordinates (-35.5799, -104.0024).
+On 2020-11-04 12:23:45.819000, there was an earthquake of magnitude 4.4 at 84 km SE of Akutan, Alaska, located at GPS coordinates (53.5842, -164.88).
+On 2020-11-04 11:54:20.446000, there was an earthquake of magnitude 2.6 at 118 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3905, -159.6372).
+On 2020-11-04 11:25:03.356000, there was an earthquake of magnitude 2.5 at 116 km SSW of Kaktovik, AK, located at GPS coordinates (69.1515, -144.6401).
+On 2020-11-04 10:50:39.683000, there was an earthquake of magnitude 4.2 at Mariana Islands region, located at GPS coordinates (19.2081, 147.0882).
+On 2020-11-04 09:58:59.208000, there was an earthquake of magnitude 2.8 at 53 km S of Adak, Alaska, located at GPS coordinates (51.4063, -176.7835).
+On 2020-11-04 09:38:11.412000, there was an earthquake of magnitude 4.6 at 268 km E of Levuka, Fiji, located at GPS coordinates (-17.7019, -178.1772).
+On 2020-11-04 09:35:46.217000, there was an earthquake of magnitude 4.3 at 39 km SSW of Adak, Alaska, located at GPS coordinates (51.5428, -176.8299).
+On 2020-11-04 09:35:21.616000, there was an earthquake of magnitude 4.4 at 197 km NNE of Happy Valley-Goose Bay, Canada, located at GPS coordinates (54.9665, -59.2565).
+On 2020-11-04 09:34:29.503000, there was an earthquake of magnitude 3.0 at 106 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5047, -159.6723).
+On 2020-11-04 09:19:45.176000, there was an earthquake of magnitude 4.1 at 69 km W of Panguna, Papua New Guinea, located at GPS coordinates (-6.2167, 154.8663).
+On 2020-11-04 08:58:50.197000, there was an earthquake of magnitude 2.9 at 124 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2994, -159.7864).
+On 2020-11-04 08:14:14.828000, there was an earthquake of magnitude 3.5 at 117 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3897, -159.705).
+On 2020-11-04 07:51:32.563000, there was an earthquake of magnitude 2.5 at 15 km NNW of Stanley, Idaho, located at GPS coordinates (44.3436, -115.0169).
+On 2020-11-04 07:49:53.558000, there was an earthquake of magnitude 3.9 at 45 km SSW of Adak, Alaska, located at GPS coordinates (51.4832, -176.8085).
+On 2020-11-04 07:38:02.061000, there was an earthquake of magnitude 3.3 at 112 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4291, -159.7289).
+On 2020-11-04 07:19:50.590000, there was an earthquake of magnitude 2.62 at 29km WSW of San Simeon, CA, located at GPS coordinates (35.5356667, -121.479).
+On 2020-11-04 06:52:16.001000, there was an earthquake of magnitude 4.3 at 196 km NNE of Happy Valley-Goose Bay, Canada, located at GPS coordinates (54.9387, -59.1974).
+On 2020-11-04 06:48:59.380000, there was an earthquake of magnitude 4.6 at Southwest Indian Ridge, located at GPS coordinates (-31.0871, 59.3675).
+On 2020-11-04 06:42:26.120000, there was an earthquake of magnitude 2.58 at 7 km WSW of La Parguera, Puerto Rico, located at GPS coordinates (17.947, -67.1133).
+On 2020-11-04 06:20:48.912000, there was an earthquake of magnitude 4.6 at South Shetland Islands, located at GPS coordinates (-62.3828, -58.1776).
+On 2020-11-04 05:38:49.374000, there was an earthquake of magnitude 2.7 at 54 km NW of Toyah, Texas, located at GPS coordinates (31.6174, -104.2485).
+On 2020-11-04 05:38:16.382000, there was an earthquake of magnitude 2.8 at 53 km NW of Toyah, Texas, located at GPS coordinates (31.6033, -104.2504).
+On 2020-11-04 05:16:43.570000, there was an earthquake of magnitude 2.8 at 100 km SSE of Sand Point, Alaska, located at GPS coordinates (54.493, -159.9538).
+On 2020-11-04 04:43:49.169000, there was an earthquake of magnitude 3.0 at 53 km ESE of Nikolski, Alaska, located at GPS coordinates (52.7009, -168.1723).
+On 2020-11-04 04:20:47.446000, there was an earthquake of magnitude 3.6 at 148 km SSE of Sand Point, Alaska, located at GPS coordinates (54.09, -159.679).
+On 2020-11-04 03:53:01.448000, there was an earthquake of magnitude 3.0 at 89 km ESE of Selawik, Alaska, located at GPS coordinates (66.1795, -158.2991).
+On 2020-11-04 03:44:08.351000, there was an earthquake of magnitude 2.7 at 122 km SE of Sand Point, Alaska, located at GPS coordinates (54.4431, -159.3941).
+On 2020-11-04 03:27:23.395000, there was an earthquake of magnitude 4.9 at 258 km SSE of False Pass, Alaska, located at GPS coordinates (52.5802, -162.5853).
+On 2020-11-04 03:15:27.465000, there was an earthquake of magnitude 3.0 at 11 km ENE of Sterling, AK, located at GPS coordinates (60.5811, -150.5928).
+On 2020-11-04 02:54:49.352000, there was an earthquake of magnitude 4.9 at southern East Pacific Rise, located at GPS coordinates (-34.9524, -107.6392).
+On 2020-11-04 02:47:30.594000, there was an earthquake of magnitude 2.6 at 30 km SE of Mina, Nevada, located at GPS coordinates (38.1721, -117.8911).
+On 2020-11-04 02:44:12.150000, there was an earthquake of magnitude 2.59 at 5 km SW of Guánica, Puerto Rico, located at GPS coordinates (17.9405, -66.9506).
+On 2020-11-04 02:40:09.652000, there was an earthquake of magnitude 2.7 at 133 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2361, -159.6626).
+On 2020-11-04 02:39:45.625000, there was an earthquake of magnitude 4.2 at 20 km S of Taloqan, Afghanistan, located at GPS coordinates (36.5505, 69.5582).
+On 2020-11-04 02:32:47.368000, there was an earthquake of magnitude 2.5 at 116 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3967, -159.6906).
+On 2020-11-04 02:29:37.853000, there was an earthquake of magnitude 2.8 at 121 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3303, -159.7527).
+On 2020-11-04 01:35:29.823000, there was an earthquake of magnitude 5.1 at South Sandwich Islands region, located at GPS coordinates (-55.7988, -26.9).
+On 2020-11-04 01:17:36.489000, there was an earthquake of magnitude 3.0 at 11 km SW of El Indio, Texas, located at GPS coordinates (28.4324, -100.3871).
+On 2020-11-04 00:32:38.458000, there was an earthquake of magnitude 3.0 at 154 km SSE of Sand Point, Alaska, located at GPS coordinates (54.0516, -159.5772).
+On 2020-11-04 00:31:31.758000, there was an earthquake of magnitude 2.6 at 166 km SSE of Atka, Alaska, located at GPS coordinates (50.8668, -173.1096).
+On 2020-11-04 00:30:27.397000, there was an earthquake of magnitude 2.6 at 78 km SSW of Nanwalek, AK, located at GPS coordinates (58.7614, -152.6404).
+On 2020-11-04 00:20:24.770000, there was an earthquake of magnitude 3.4 at 20km SE of Yosemite Valley, CA, located at GPS coordinates (37.6391667, -119.3898333).
+On 2020-11-03 23:18:50.124000, there was an earthquake of magnitude 3.2 at 23 km NW of Stanley, Idaho, located at GPS coordinates (44.3675, -115.1372).
+On 2020-11-03 23:07:54.726000, there was an earthquake of magnitude 4.5 at south of the Fiji Islands, located at GPS coordinates (-23.9117, -179.8953).
+On 2020-11-03 22:29:04.935000, there was an earthquake of magnitude 3.1 at 122 km SE of Sand Point, Alaska, located at GPS coordinates (54.4366, -159.3893).
+On 2020-11-03 22:27:14.437000, there was an earthquake of magnitude 2.5 at 139 km SE of Akutan, Alaska, located at GPS coordinates (53.1, -164.5829).
+On 2020-11-03 20:44:16.029000, there was an earthquake of magnitude 3.1 at 241 km S of Sand Point, Alaska, located at GPS coordinates (53.1945, -159.9015).
+On 2020-11-03 20:35:35.787000, there was an earthquake of magnitude 4.0 at 22 km WNW of Néon Karlovásion, Greece, located at GPS coordinates (37.8619, 26.4594).
+On 2020-11-03 20:22:22.913000, there was an earthquake of magnitude 4.9 at 194 km ENE of Olonkinbyen, Svalbard and Jan Mayen, located at GPS coordinates (71.407, -3.5232).
+On 2020-11-03 19:58:24.353000, there was an earthquake of magnitude 3.4 at 14 km ENE of Wright, Wyoming, located at GPS coordinates (43.8118, -105.3271).
+On 2020-11-03 19:58:16.029000, there was an earthquake of magnitude 4.0 at 118 km E of Kimbe, Papua New Guinea, located at GPS coordinates (-5.7385, 151.1867).
+On 2020-11-03 19:47:33.955000, there was an earthquake of magnitude 4.8 at Off the coast of Aisen, Chile, located at GPS coordinates (-44.4427, -79.7723).
+On 2020-11-03 19:46:52.437000, there was an earthquake of magnitude 2.7 at south of Alaska, located at GPS coordinates (54.6274, -159.7656).
+On 2020-11-03 19:26:39.985000, there was an earthquake of magnitude 4.2 at 51 km ESE of Arica, Chile, located at GPS coordinates (-18.6532, -69.8458).
+On 2020-11-03 19:22:31.723000, there was an earthquake of magnitude 2.9 at 154 km SSE of Sand Point, Alaska, located at GPS coordinates (54.0459, -159.6188).
+On 2020-11-03 19:05:35.220000, there was an earthquake of magnitude 4.5 at central East Pacific Rise, located at GPS coordinates (-4.4218, -104.8934).
+On 2020-11-03 18:54:00.890000, there was an earthquake of magnitude 2.5 at 60 km ENE of Pedro Bay, Alaska, located at GPS coordinates (60.0593, -153.1689).
+On 2020-11-03 18:39:03.741000, there was an earthquake of magnitude 4.4 at South Shetland Islands, located at GPS coordinates (-62.3374, -58.2318).
+On 2020-11-03 18:17:45.707000, there was an earthquake of magnitude 4.8 at 21 km SSE of Port-Vila, Vanuatu, located at GPS coordinates (-17.9159, 168.3958).
+On 2020-11-03 18:09:20.330000, there was an earthquake of magnitude 2.5 at 104 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4922, -159.7825).
+On 2020-11-03 17:59:06.042000, there was an earthquake of magnitude 4.6 at 75 km NNW of Basco, Philippines, located at GPS coordinates (21.0909, 121.7272).
+On 2020-11-03 17:44:48.107000, there was an earthquake of magnitude 3.3 at 274 km SE of Chiniak, Alaska, located at GPS coordinates (55.7936, -149.2482).
+On 2020-11-03 17:41:19.160000, there was an earthquake of magnitude 3.34 at 11km ESE of Willits, CA, located at GPS coordinates (39.367, -123.2448333).
+On 2020-11-03 17:39:52.922000, there was an earthquake of magnitude 2.8 at 120 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4282, -159.4837).
+On 2020-11-03 17:28:07.102000, there was an earthquake of magnitude 2.5 at 131 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3065, -159.4935).
+On 2020-11-03 16:52:28.954000, there was an earthquake of magnitude 4.8 at Nias region, Indonesia, located at GPS coordinates (0.1745, 97.7686).
+On 2020-11-03 16:40:57.870000, there was an earthquake of magnitude 2.63 at 6 km N of Wai‘?hinu, Hawaii, located at GPS coordinates (19.1313333333333, -155.618166666667).
+On 2020-11-03 16:35:27.053000, there was an earthquake of magnitude 2.6 at 61 km W of Happy Valley, Alaska, located at GPS coordinates (60.028, -152.8235).
+On 2020-11-03 15:52:00.879000, there was an earthquake of magnitude 2.6 at 102 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5078, -159.8099).
+On 2020-11-03 15:46:07.264000, there was an earthquake of magnitude 2.7 at 205 km SSE of Sand Point, Alaska, located at GPS coordinates (53.525, -159.8497).
+On 2020-11-03 15:28:53.572000, there was an earthquake of magnitude 4.2 at 7 km WNW of Orkney, South Africa, located at GPS coordinates (-26.9664, 26.5987).
+On 2020-11-03 15:20:15.241000, there was an earthquake of magnitude 4.6 at 106 km NNW of Saipan, Northern Mariana Islands, located at GPS coordinates (16.1104, 145.403).
+On 2020-11-03 15:18:59.022000, there was an earthquake of magnitude 4.8 at 160 km ESE of Saipan, Northern Mariana Islands, located at GPS coordinates (14.9071, 147.2132).
+On 2020-11-03 15:13:15.046000, there was an earthquake of magnitude 2.6 at 123 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3088, -159.7571).
+On 2020-11-03 15:09:33.948000, there was an earthquake of magnitude 2.5 at 149 km SSE of Sand Point, Alaska, located at GPS coordinates (54.0457, -159.8425).
+On 2020-11-03 15:02:24.813000, there was an earthquake of magnitude 4.7 at South Shetland Islands, located at GPS coordinates (-62.3213, -58.1524).
+On 2020-11-03 14:46:25.426000, there was an earthquake of magnitude 4.4 at 72 km NNW of Lae, Papua New Guinea, located at GPS coordinates (-6.096, 146.8185).
+On 2020-11-03 14:08:35.392000, there was an earthquake of magnitude 4.4 at Reykjanes Ridge, located at GPS coordinates (57.7242, -33.0494).
+On 2020-11-03 13:30:47.266000, there was an earthquake of magnitude 3.6 at 112 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4122, -159.8091).
+On 2020-11-03 13:30:23.348000, there was an earthquake of magnitude 3.3 at 111 km SSE of Sand Point, Alaska, located at GPS coordinates (54.465, -159.6387).
+On 2020-11-03 12:52:47.673000, there was an earthquake of magnitude 3.7 at 152 km WNW of Nikolski, Alaska, located at GPS coordinates (53.2349, -171.0815).
+On 2020-11-03 12:36:49.411000, there was an earthquake of magnitude 2.9 at 168 km SSE of Sand Point, Alaska, located at GPS coordinates (53.91, -159.6258).
+On 2020-11-03 12:16:45.898000, there was an earthquake of magnitude 4.5 at Caspian Sea, located at GPS coordinates (42.2581, 48.8439).
+On 2020-11-03 12:13:46.098000, there was an earthquake of magnitude 2.6 at 110 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4281, -159.8068).
+On 2020-11-03 12:04:47.230000, there was an earthquake of magnitude 2.9 at 119 km SE of Perryville, Alaska, located at GPS coordinates (55.0685, -157.9783).
+On 2020-11-03 11:09:12.625000, there was an earthquake of magnitude 3.0 at 133 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1943, -159.8586).
+On 2020-11-03 11:04:43.725000, there was an earthquake of magnitude 2.6 at 58 km ENE of San Vicente, Mexico, located at GPS coordinates (31.4856, -115.657).
+On 2020-11-03 11:00:39.520000, there was an earthquake of magnitude 3.74 at 84km ESE of Maneadero, B.C., MX, located at GPS coordinates (31.5295, -115.7046667).
+On 2020-11-03 10:28:06.140000, there was an earthquake of magnitude 2.7 at 5 km SW of Guánica, Puerto Rico, located at GPS coordinates (17.9343, -66.94).
+On 2020-11-03 09:40:45.923000, there was an earthquake of magnitude 2.8 at Rat Islands, Aleutian Islands, Alaska, located at GPS coordinates (51.4856, 177.8523).
+On 2020-11-03 09:39:45.794000, there was an earthquake of magnitude 2.8 at 67 km SE of Perryville, Alaska, located at GPS coordinates (55.5131, -158.3259).
+On 2020-11-03 09:35:24.406000, there was an earthquake of magnitude 4.5 at 98 km NNE of Calama, Chile, located at GPS coordinates (-21.6173, -68.6221).
+On 2020-11-03 09:10:48.715000, there was an earthquake of magnitude 2.7 at 63 km SE of Perryville, Alaska, located at GPS coordinates (55.5308, -158.3977).
+On 2020-11-03 08:18:56.633000, there was an earthquake of magnitude 5.7 at 267 km WNW of Haveluloto, Tonga, located at GPS coordinates (-19.9889, -177.464).
+On 2020-11-03 08:08:01.186000, there was an earthquake of magnitude 3.7 at 124 km SE of Perryville, Alaska, located at GPS coordinates (55.0188, -157.9647).
+On 2020-11-03 08:03:41.117000, there was an earthquake of magnitude 4.7 at Balleny Islands region, located at GPS coordinates (-62.2808, 164.6071).
+On 2020-11-03 07:18:31.522000, there was an earthquake of magnitude 2.9 at 110 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4662, -159.668).
+On 2020-11-03 06:34:56.905000, there was an earthquake of magnitude 3.4 at 241 km SE of Chiniak, Alaska, located at GPS coordinates (56.0334, -149.5553).
+On 2020-11-03 06:26:42.528000, there was an earthquake of magnitude 4.6 at South Sandwich Islands region, located at GPS coordinates (-55.1376, -28.7577).
+On 2020-11-03 06:26:38.452000, there was an earthquake of magnitude 3.0 at 96 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5704, -159.7859).
+On 2020-11-03 06:14:53.797000, there was an earthquake of magnitude 4.4 at Reykjanes Ridge, located at GPS coordinates (57.6138, -33.1179).
+On 2020-11-03 06:10:06.966000, there was an earthquake of magnitude 4.6 at Reykjanes Ridge, located at GPS coordinates (57.6086, -32.8813).
+On 2020-11-03 05:40:43.410000, there was an earthquake of magnitude 2.6 at 116 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3962, -159.7031).
+On 2020-11-03 05:24:33.143000, there was an earthquake of magnitude 4.8 at 217 km SE of Kokopo, Papua New Guinea, located at GPS coordinates (-5.842, 153.5374).
+On 2020-11-03 05:21:44.264000, there was an earthquake of magnitude 3.1 at 217 km S of Sand Point, Alaska, located at GPS coordinates (53.3949, -160.0692).
+On 2020-11-03 05:21:22.733000, there was an earthquake of magnitude 3.1 at 230 km SSE of Sand Point, Alaska, located at GPS coordinates (53.3216, -159.6852).
+On 2020-11-03 05:07:38.638000, there was an earthquake of magnitude 2.8 at 206 km NW of Nikolski, Alaska, located at GPS coordinates (54.006, -171.4028).
+On 2020-11-03 05:03:01.443000, there was an earthquake of magnitude 3.2 at 229 km S of Sand Point, Alaska, located at GPS coordinates (53.2843, -160.11).
+On 2020-11-03 05:01:03.839000, there was an earthquake of magnitude 4.5 at 125 km W of San Jose Village, Northern Mariana Islands, located at GPS coordinates (14.7631, 144.4774).
+On 2020-11-03 04:58:42.172000, there was an earthquake of magnitude 2.5 at 128 km SE of Perryville, Alaska, located at GPS coordinates (55.0369, -157.8112).
+On 2020-11-03 04:35:56.625000, there was an earthquake of magnitude 4.5 at Banda Sea, located at GPS coordinates (-6.7301, 129.7848).
+On 2020-11-03 04:35:46.290000, there was an earthquake of magnitude 3.3 at 124 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3212, -159.672).
+On 2020-11-03 04:25:07.605000, there was an earthquake of magnitude 3.3 at 7 km E of Ibi, Spain, located at GPS coordinates (38.6254, -0.4834).
+On 2020-11-03 04:19:34.670000, there was an earthquake of magnitude 3.21 at 6 km WSW of La Parguera, Puerto Rico, located at GPS coordinates (17.9501, -67.097).
+On 2020-11-03 04:17:25.228000, there was an earthquake of magnitude 2.6 at 17 km NE of Yakutat, Alaska, located at GPS coordinates (59.6391, -139.4866).
+On 2020-11-03 04:01:33.775000, there was an earthquake of magnitude 4.5 at 248 km SSE of ‘Ohonua, Tonga, located at GPS coordinates (-23.2283, -173.6614).
+On 2020-11-03 04:01:14.496000, there was an earthquake of magnitude 3.0 at 201 km SSE of False Pass, Alaska, located at GPS coordinates (53.2208, -162.1011).
+On 2020-11-03 02:55:14.569000, there was an earthquake of magnitude 2.6 at 122 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3432, -159.6674).
+On 2020-11-03 02:51:29.306000, there was an earthquake of magnitude 4.4 at 194 km SSW of Sibolga, Indonesia, located at GPS coordinates (0.2202, 97.8965).
+On 2020-11-03 02:40:54.919000, there was an earthquake of magnitude 6.0 at Off the coast of Aisen, Chile, located at GPS coordinates (-44.4111, -79.375).
+On 2020-11-03 02:39:20.076000, there was an earthquake of magnitude 4.7 at 284 km ESE of Tadine, New Caledonia, located at GPS coordinates (-22.6021, 170.397).
+On 2020-11-03 02:29:44.849000, there was an earthquake of magnitude 4.6 at Reykjanes Ridge, located at GPS coordinates (57.6236, -32.9635).
+On 2020-11-03 02:23:56.681000, there was an earthquake of magnitude 3.2 at 233 km S of Sand Point, Alaska, located at GPS coordinates (53.2684, -159.9081).
+On 2020-11-03 02:22:19.955000, there was an earthquake of magnitude 2.7 at 120 km SE of Sand Point, Alaska, located at GPS coordinates (54.4775, -159.349).
+On 2020-11-03 02:07:02.292000, there was an earthquake of magnitude 3.3 at 219 km S of Sand Point, Alaska, located at GPS coordinates (53.3874, -160.0235).
+On 2020-11-03 02:02:31.137000, there was an earthquake of magnitude 4.5 at 163 km SSW of Tomohon, Indonesia, located at GPS coordinates (-0.1306, 124.4872).
+On 2020-11-03 01:51:05.156000, there was an earthquake of magnitude 4.9 at 193 km SSW of Sibolga, Indonesia, located at GPS coordinates (0.2348, 97.895).
+On 2020-11-03 01:41:59.572000, there was an earthquake of magnitude 3.0 at 13 km SSE of Lindsay, Texas, located at GPS coordinates (31.2567, -103.4862).
+On 2020-11-03 01:24:55.682000, there was an earthquake of magnitude 4.4 at 10 km NNW of Ashk?sham, Afghanistan, located at GPS coordinates (36.7666, 71.4733).
+On 2020-11-03 01:05:16.645000, there was an earthquake of magnitude 3.0 at 138 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1912, -159.6432).
+On 2020-11-03 00:50:44.440000, there was an earthquake of magnitude 4.4 at 239 km E of Amahai, Indonesia, located at GPS coordinates (-3.4481, 131.0713).
+On 2020-11-03 00:49:23.596000, there was an earthquake of magnitude 4.3 at south of the Kermadec Islands, located at GPS coordinates (-32.0581, 179.8121).
+On 2020-11-03 00:11:38.727000, there was an earthquake of magnitude 4.2 at 30 km S of Bor?zj?n, Iran, located at GPS coordinates (28.9971, 51.2767).
+On 2020-11-02 23:28:06.215000, there was an earthquake of magnitude 2.7 at 80 km SSE of Sand Point, Alaska, located at GPS coordinates (54.7259, -159.8341).
+On 2020-11-02 23:27:28.270000, there was an earthquake of magnitude 2.79 at 1 km ESE of Orocovis, Puerto Rico, located at GPS coordinates (18.22, -66.3756).
+On 2020-11-02 23:25:27.736000, there was an earthquake of magnitude 4.7 at 79 km WSW of Puerto Madero, Mexico, located at GPS coordinates (14.3261, -93.0406).
+On 2020-11-02 23:14:19.162000, there was an earthquake of magnitude 4.2 at 70 km E of Hualien City, Taiwan, located at GPS coordinates (24.0351, 122.2938).
+On 2020-11-02 23:08:22.084000, there was an earthquake of magnitude 4.4 at 153 km W of Abepura, Indonesia, located at GPS coordinates (-2.4181, 139.2669).
+On 2020-11-02 22:49:40.984000, there was an earthquake of magnitude 4.6 at South Shetland Islands, located at GPS coordinates (-62.3128, -58.5055).
+On 2020-11-02 22:49:36.970000, there was an earthquake of magnitude 2.65 at 5 km E of La Parguera, Puerto Rico, located at GPS coordinates (17.9791, -66.9995).
+On 2020-11-02 22:44:27.150000, there was an earthquake of magnitude 2.57 at 5 km SSW of Indios, Puerto Rico, located at GPS coordinates (17.9515, -66.8395).
+On 2020-11-02 22:22:14.470000, there was an earthquake of magnitude 2.89 at 11km ESE of Willits, CA, located at GPS coordinates (39.3638333, -123.2433333).
+On 2020-11-02 22:18:40.253000, there was an earthquake of magnitude 2.7 at 133 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2429, -159.6385).
+On 2020-11-02 22:04:14.255000, there was an earthquake of magnitude 3.0 at 84 km SE of King Cove, Alaska, located at GPS coordinates (54.553, -161.3501).
+On 2020-11-02 21:57:22.848000, there was an earthquake of magnitude 2.9 at 99 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5759, -159.6722).
+On 2020-11-02 20:52:57.980000, there was an earthquake of magnitude 2.54 at 9 km SSE of Maria Antonia, Puerto Rico, located at GPS coordinates (17.9046, -66.8401).
+On 2020-11-02 20:18:17.569000, there was an earthquake of magnitude 4.2 at 16 km ESE of Rumoi, Japan, located at GPS coordinates (43.8763, 141.8324).
+On 2020-11-02 19:43:17.105000, there was an earthquake of magnitude 4.5 at 30 km NNW of Nongstoin, India, located at GPS coordinates (25.7773, 91.1728).
+On 2020-11-02 19:25:15.310000, there was an earthquake of magnitude 2.93 at 10km WSW of Petrolia, CA, located at GPS coordinates (40.2936667, -124.3891667).
+On 2020-11-02 19:22:40.078000, there was an earthquake of magnitude 3.0 at 55 km S of Sand Point, Alaska, located at GPS coordinates (54.8455, -160.3472).
+On 2020-11-02 19:16:40.054000, there was an earthquake of magnitude 4.5 at 19 km WNW of Néon Karlovásion, Greece, located at GPS coordinates (37.8283, 26.4937).
+On 2020-11-02 19:15:47.424000, there was an earthquake of magnitude 3.2 at 163 km S of False Pass, Alaska, located at GPS coordinates (53.3923, -163.5819).
+On 2020-11-02 19:09:21.916000, there was an earthquake of magnitude 2.8 at 145 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1163, -159.6813).
+On 2020-11-02 18:45:24.126000, there was an earthquake of magnitude 4.6 at South Shetland Islands, located at GPS coordinates (-62.348, -58.1682).
+On 2020-11-02 18:22:42.511000, there was an earthquake of magnitude 2.9 at 43 km NNW of Stanley, Idaho, located at GPS coordinates (44.5579, -115.2077).
+On 2020-11-02 18:20:14.430000, there was an earthquake of magnitude 2.69 at 8 km SE of Maria Antonia, Puerto Rico, located at GPS coordinates (17.918, -66.8458).
+On 2020-11-02 18:18:55.642000, there was an earthquake of magnitude 4.1 at 201 km WSW of Tual, Indonesia, located at GPS coordinates (-6.0224, 130.9719).
+On 2020-11-02 18:08:12.472000, there was an earthquake of magnitude 4.2 at Ceram Sea, Indonesia, located at GPS coordinates (-3.3838, 131.064).
+On 2020-11-02 18:01:58.822000, there was an earthquake of magnitude 5.3 at 245 km E of Amahai, Indonesia, located at GPS coordinates (-3.4262, 131.1283).
+On 2020-11-02 17:37:47.972000, there was an earthquake of magnitude 3.2 at 45 km ENE of Adak, Alaska, located at GPS coordinates (51.9851, -175.9961).
+On 2020-11-02 17:02:42.765000, there was an earthquake of magnitude 4.3 at Kermadec Islands region, located at GPS coordinates (-31.036, -178.9476).
+On 2020-11-02 16:26:29.780000, there was an earthquake of magnitude 2.64 at 22km NW of Ludlow, CA, located at GPS coordinates (34.8598333, -116.3381667).
+On 2020-11-02 14:38:34.342000, there was an earthquake of magnitude 2.7 at Unimak Island region, Alaska, located at GPS coordinates (54.5726, -163.3209).
+On 2020-11-02 14:38:16.059000, there was an earthquake of magnitude 3.9 at 197 km S of Sand Point, Alaska, located at GPS coordinates (53.564, -160.3361).
+On 2020-11-02 14:34:36.478000, there was an earthquake of magnitude 3.9 at 180 km SSE of Sand Point, Alaska, located at GPS coordinates (53.7503, -159.9111).
+On 2020-11-02 13:48:14.864000, there was an earthquake of magnitude 2.5 at 34 km NE of Chase, AK, located at GPS coordinates (62.6631, -149.6428).
+On 2020-11-02 13:42:19.272000, there was an earthquake of magnitude 4.7 at 50 km SW of Asia, Peru, located at GPS coordinates (-13.0959, -76.8928).
+On 2020-11-02 13:34:00.770000, there was an earthquake of magnitude 2.6 at 114 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4148, -159.6943).
+On 2020-11-02 13:24:55.846000, there was an earthquake of magnitude 4.2 at 115 km SSE of Shimoda, Japan, located at GPS coordinates (33.7736, 139.5795).
+On 2020-11-02 13:10:24.712000, there was an earthquake of magnitude 2.8 at 133 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2519, -159.6305).
+On 2020-11-02 12:31:57.070000, there was an earthquake of magnitude 2.56 at 4 km SW of Guánica, Puerto Rico, located at GPS coordinates (17.9466, -66.9441).
+On 2020-11-02 12:30:39.907000, there was an earthquake of magnitude 4.4 at 20 km SSW of Seferihisar, Turkey, located at GPS coordinates (38.0363, 26.7321).
+On 2020-11-02 12:28:16.433000, there was an earthquake of magnitude 2.7 at 148 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1308, -159.5163).
+On 2020-11-02 12:17:30.060000, there was an earthquake of magnitude 4.8 at 89 km SW of San Juan del Sur, Nicaragua, located at GPS coordinates (10.6989, -86.4665).
+On 2020-11-02 11:58:03.083000, there was an earthquake of magnitude 4.3 at 5 km NNE of Kokkári, Greece, located at GPS coordinates (37.821, 26.9203).
+On 2020-11-02 11:47:53.250000, there was an earthquake of magnitude 3.48 at 9 km ENE of P?hala, Hawaii, located at GPS coordinates (19.2198333333333, -155.394833333333).
+On 2020-11-02 11:35:05.616000, there was an earthquake of magnitude 3.3 at 156 km SSE of Sand Point, Alaska, located at GPS coordinates (54.0207, -159.6425).
+On 2020-11-02 11:16:19.555000, there was an earthquake of magnitude 3.0 at 217 km SE of Chiniak, Alaska, located at GPS coordinates (56.2661, -149.6907).
+On 2020-11-02 11:09:41.160000, there was an earthquake of magnitude 2.95 at 84km ESE of Maneadero, B.C., MX, located at GPS coordinates (31.5216667, -115.7153333).
+On 2020-11-02 11:09:16.301000, there was an earthquake of magnitude 2.9 at 60 km E of San Vicente, Mexico, located at GPS coordinates (31.3841, -115.6172).
+On 2020-11-02 10:43:50.497000, there was an earthquake of magnitude 3.2 at 68 km SW of Unalaska, Alaska, located at GPS coordinates (53.4269, -167.2369).
+On 2020-11-02 10:26:05.311000, there was an earthquake of magnitude 2.8 at 107 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4393, -159.891).
+On 2020-11-02 10:16:52.274000, there was an earthquake of magnitude 3.2 at 124 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3025, -159.7725).
+On 2020-11-02 10:15:38.233000, there was an earthquake of magnitude 4.3 at south of the Fiji Islands, located at GPS coordinates (-22.7715, -179.4878).
+On 2020-11-02 10:05:54.428000, there was an earthquake of magnitude 4.3 at 101 km W of San Antonio de los Cobres, Argentina, located at GPS coordinates (-24.3181, -67.3173).
+On 2020-11-02 09:48:07.140000, there was an earthquake of magnitude 2.7 at 3 km ESE of Hormigueros, Puerto Rico, located at GPS coordinates (18.1298, -67.101).
+On 2020-11-02 09:47:52.849000, there was an earthquake of magnitude 3.2 at 101 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5682, -159.634).
+On 2020-11-02 09:10:39.420000, there was an earthquake of magnitude 3.9 at 51 km S of Hokitika, New Zealand, located at GPS coordinates (-43.1726, 170.8675).
+On 2020-11-02 09:04:50.345000, there was an earthquake of magnitude 4.9 at 82 km NNW of Sola, Vanuatu, located at GPS coordinates (-13.2425, 167.1487).
+On 2020-11-02 09:00:26.580000, there was an earthquake of magnitude 2.55 at 81km ESE of Maneadero, B.C., MX, located at GPS coordinates (31.5295, -115.7393333).
+On 2020-11-02 08:59:48.560000, there was an earthquake of magnitude 2.58 at 13 km NNW of Wai‘?hinu, Hawaii, located at GPS coordinates (19.1841666666667, -155.651833333333).
+On 2020-11-02 08:58:12.947000, there was an earthquake of magnitude 4.4 at 58 km NE of Port-Olry, Vanuatu, located at GPS coordinates (-14.7156, 167.4974).
+On 2020-11-02 08:58:10.340000, there was an earthquake of magnitude 3.4 at 204 km SSE of Sand Point, Alaska, located at GPS coordinates (53.5616, -159.6888).
+On 2020-11-02 08:31:02.491000, there was an earthquake of magnitude 2.7 at 165 km SSE of Sand Point, Alaska, located at GPS coordinates (53.9934, -159.4105).
+On 2020-11-02 08:10:08.803000, there was an earthquake of magnitude 4.6 at 62 km WSW of Bengkulu, Indonesia, located at GPS coordinates (-3.9159, 101.7149).
+On 2020-11-02 08:09:53.193000, there was an earthquake of magnitude 4.6 at 151 km WNW of Tobelo, Indonesia, located at GPS coordinates (2.4407, 126.8444).
+On 2020-11-02 08:09:34.709000, there was an earthquake of magnitude 3.8 at 51 km WNW of Valparaíso, Chile, located at GPS coordinates (-32.8348, -72.1302).
+On 2020-11-02 07:56:21.622000, there was an earthquake of magnitude 4.3 at 66 km S of Sola, Vanuatu, located at GPS coordinates (-14.4719, 167.517).
+On 2020-11-02 07:54:52.081000, there was an earthquake of magnitude 4.3 at near the north coast of Greenland, located at GPS coordinates (81.4487, -18.3619).
+On 2020-11-02 07:33:35.900000, there was an earthquake of magnitude 3.02 at 6 km WSW of Guánica, Puerto Rico, located at GPS coordinates (17.943, -66.9646).
+On 2020-11-02 06:29:00.670000, there was an earthquake of magnitude 4.6 at 87 km NW of Kalawit, Philippines, located at GPS coordinates (8.6379, 121.9721).
+On 2020-11-02 05:18:18.610000, there was an earthquake of magnitude 2.7 at 217 km SSE of Sand Point, Alaska, located at GPS coordinates (53.4431, -159.6461).
+On 2020-11-02 05:10:46.430000, there was an earthquake of magnitude 4.6 at 104 km NNW of Villa General Roca, Argentina, located at GPS coordinates (-31.8675, -67.0357).
+On 2020-11-02 05:01:05.518000, there was an earthquake of magnitude 4.8 at central Mid-Atlantic Ridge, located at GPS coordinates (8.7029, -40.1163).
+On 2020-11-02 04:58:51.740000, there was an earthquake of magnitude 4.6 at South Shetland Islands, located at GPS coordinates (-62.371, -58.177).
+On 2020-11-02 04:33:43.866000, there was an earthquake of magnitude 2.7 at 199 km W of Ferndale, California, located at GPS coordinates (40.4541, -126.6134).
+On 2020-11-02 04:30:11.580000, there was an earthquake of magnitude 2.87 at Puerto Rico region, located at GPS coordinates (17.9585, -66.9751).
+On 2020-11-02 04:18:02.367000, there was an earthquake of magnitude 2.5 at south of Alaska, located at GPS coordinates (54.3696, -159.6089).
+On 2020-11-02 03:56:11.655000, there was an earthquake of magnitude 4.4 at 42 km SSE of Sand Point, Alaska, located at GPS coordinates (54.9768, -160.2688).
+On 2020-11-02 03:40:24.915000, there was an earthquake of magnitude 4.4 at Revilla Gigedo Islands region, located at GPS coordinates (19.6318, -108.7458).
+On 2020-11-02 03:26:43.880000, there was an earthquake of magnitude 4.2 at 20 km SW of San Jeronimito, Mexico, located at GPS coordinates (17.4138, -101.4561).
+On 2020-11-02 03:21:36.833000, there was an earthquake of magnitude 4.1 at 119 km E of Antofagasta, Chile, located at GPS coordinates (-23.7334, -69.2277).
+On 2020-11-02 03:14:53.750000, there was an earthquake of magnitude 2.52 at 89km ESE of Maneadero, B.C., MX, located at GPS coordinates (31.5308333, -115.6555).
+On 2020-11-02 03:09:43.090000, there was an earthquake of magnitude 2.6 at 96 km S of McCarthy, AK, located at GPS coordinates (60.5802, -142.7485).
+On 2020-11-02 03:07:54.118000, there was an earthquake of magnitude 2.5 at 104 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4557, -159.9437).
+On 2020-11-02 02:20:34.280000, there was an earthquake of magnitude 2.83 at 20km NW of Parkfield, CA, located at GPS coordinates (36.0271667, -120.5875).
+On 2020-11-02 02:15:18.768000, there was an earthquake of magnitude 2.5 at 74 km SE of Perryville, AK, located at GPS coordinates (55.4702, -158.2652).
+On 2020-11-02 01:38:01.675000, there was an earthquake of magnitude 2.5 at 113 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3872, -159.8526).
+On 2020-11-02 01:28:12.447000, there was an earthquake of magnitude 2.8 at 125 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2521, -159.9522).
+On 2020-11-02 01:17:08.625000, there was an earthquake of magnitude 4.5 at 16 km WSW of Gadani, Pakistan, located at GPS coordinates (25.0887, 66.5704).
+On 2020-11-02 01:10:44.310000, there was an earthquake of magnitude 2.66 at 88km ESE of Maneadero, B.C., MX, located at GPS coordinates (31.5278333, -115.663).
+On 2020-11-02 01:09:46.831000, there was an earthquake of magnitude 3.0 at 161 km SSE of Perryville, Alaska, located at GPS coordinates (54.6151, -158.016).
+On 2020-11-01 23:56:54.493000, there was an earthquake of magnitude 3.5 at 49 km ESE of Nikolski, Alaska, located at GPS coordinates (52.7273, -168.2223).
+On 2020-11-01 23:54:12.914000, there was an earthquake of magnitude 3.2 at 42 km E of Akutan, Alaska, located at GPS coordinates (54.1033, -165.1288).
+On 2020-11-01 23:09:35.270000, there was an earthquake of magnitude 4.8 at 13 km WSW of Kerasochóri, Greece, located at GPS coordinates (38.9424, 21.5082).
+On 2020-11-01 23:03:45.649000, there was an earthquake of magnitude 2.6 at 130 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2536, -159.7324).
+On 2020-11-01 22:58:15.169000, there was an earthquake of magnitude 3.0 at 98 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5231, -159.8769).
+On 2020-11-01 22:52:36.013000, there was an earthquake of magnitude 2.7 at 89 km SSE of Sand Point, Alaska, located at GPS coordinates (54.624, -159.857).
+On 2020-11-01 22:41:45.377000, there was an earthquake of magnitude 4.2 at 75 km SE of Perryville, Alaska, located at GPS coordinates (55.4739, -158.2287).
+On 2020-11-01 22:39:27.098000, there was an earthquake of magnitude 4.4 at 101 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5545, -159.6982).
+On 2020-11-01 22:34:10.505000, there was an earthquake of magnitude 2.9 at 107 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4692, -159.7705).
+On 2020-11-01 22:28:03.532000, there was an earthquake of magnitude 4.2 at 234 km ENE of Lospalos, Timor Leste, located at GPS coordinates (-7.8007, 128.9984).
+On 2020-11-01 22:18:10.610000, there was an earthquake of magnitude 4.4 at 7 km ENE of Piedecuesta, Colombia, located at GPS coordinates (7.0238, -72.9871).
+On 2020-11-01 22:16:56.731000, there was an earthquake of magnitude 4.8 at 40 km S of Port-Vila, Vanuatu, located at GPS coordinates (-18.0993, 168.3828).
+On 2020-11-01 22:16:16.510000, there was an earthquake of magnitude 3.0 at 192 km SSE of Sand Point, Alaska, located at GPS coordinates (53.6508, -159.8152).
+On 2020-11-01 22:13:41.133000, there was an earthquake of magnitude 4.9 at northern Mid-Atlantic Ridge, located at GPS coordinates (23.266, -44.8133).
+On 2020-11-01 22:11:44.396000, there was an earthquake of magnitude 4.7 at northern Mid-Atlantic Ridge, located at GPS coordinates (23.2363, -44.8486).
+On 2020-11-01 22:10:16.502000, there was an earthquake of magnitude 2.6 at 102 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5127, -159.7772).
+On 2020-11-01 22:02:31.142000, there was an earthquake of magnitude 4.7 at northern Mid-Atlantic Ridge, located at GPS coordinates (23.3347, -44.9342).
+On 2020-11-01 21:51:14.501000, there was an earthquake of magnitude 2.8 at 56 km ESE of Nikolski, Alaska, located at GPS coordinates (52.6828, -168.1302).
+On 2020-11-01 21:45:51.498000, there was an earthquake of magnitude 4.1 at 101 km WNW of Iquique, Chile, located at GPS coordinates (-19.9522, -71.0781).
+On 2020-11-01 21:19:39.431000, there was an earthquake of magnitude 4.9 at northern Mid-Atlantic Ridge, located at GPS coordinates (23.2361, -45.0039).
+On 2020-11-01 21:15:23.746000, there was an earthquake of magnitude 3.0 at 130 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2494, -159.7269).
+On 2020-11-01 21:00:33.983000, there was an earthquake of magnitude 2.6 at 233 km SE of Chiniak, Alaska, located at GPS coordinates (56.0826, -149.672).
+On 2020-11-01 20:17:46.556000, there was an earthquake of magnitude 3.2 at 43 km ESE of Nikolski, Alaska, located at GPS coordinates (52.812, -168.2466).
+On 2020-11-01 19:55:38.023000, there was an earthquake of magnitude 2.6 at 5 km NNE of Torrevieja, Spain, located at GPS coordinates (38.0277, -0.6667).
+On 2020-11-01 19:54:47.352000, there was an earthquake of magnitude 3.3 at 141 km SSE of Sand Point, Alaska, located at GPS coordinates (54.167, -159.6397).
+On 2020-11-01 19:35:57.973000, there was an earthquake of magnitude 4.2 at 48 km ESE of Nikolski, Alaska, located at GPS coordinates (52.7726, -168.2003).
+On 2020-11-01 19:14:55.209000, there was an earthquake of magnitude 4.6 at central Mid-Atlantic Ridge, located at GPS coordinates (9.9506, -40.8914).
+On 2020-11-01 18:38:18.246000, there was an earthquake of magnitude 3.0 at 119 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3595, -159.719).
+On 2020-11-01 18:20:07.535000, there was an earthquake of magnitude 3.1 at 108 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4638, -159.7565).
+On 2020-11-01 17:13:51.560000, there was an earthquake of magnitude 3.2 at 3 km SSE of Guánica, Puerto Rico, located at GPS coordinates (17.9425, -66.9008).
+On 2020-11-01 16:44:50.108000, there was an earthquake of magnitude 2.6 at 223 km S of Sand Point, Alaska, located at GPS coordinates (53.3492, -160.0215).
+On 2020-11-01 16:24:53.820000, there was an earthquake of magnitude 4.5 at eastern New Guinea region, Papua New Guinea, located at GPS coordinates (-6.1387, 146.2554).
+On 2020-11-01 16:04:24.800000, there was an earthquake of magnitude 2.8 at 4 km SW of Beluga, Alaska, located at GPS coordinates (61.1134, -151.1464).
+On 2020-11-01 15:58:49.662000, there was an earthquake of magnitude 4.6 at 16 km SSW of Danghara, Tajikistan, located at GPS coordinates (37.9543, 69.282).
+On 2020-11-01 15:56:49.615000, there was an earthquake of magnitude 2.6 at 18 km WNW of Stanley, Idaho, located at GPS coordinates (44.3093, -115.1371).
+On 2020-11-01 15:40:16.517000, there was an earthquake of magnitude 4.5 at South Sandwich Islands region, located at GPS coordinates (-57.9439, -25.5435).
+On 2020-11-01 15:28:58.267000, there was an earthquake of magnitude 3.1 at 96 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5399, -159.8889).
+On 2020-11-01 15:27:37.024000, there was an earthquake of magnitude 2.9 at 54 km SSE of Sand Point, Alaska, located at GPS coordinates (54.8621, -160.304).
+On 2020-11-01 15:14:08.665000, there was an earthquake of magnitude 3.1 at 113 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3752, -159.9313).
+On 2020-11-01 15:02:23.662000, there was an earthquake of magnitude 2.5 at 83 km S of False Pass, Alaska, located at GPS coordinates (54.1046, -163.3678).
+On 2020-11-01 14:49:58.184000, there was an earthquake of magnitude 4.6 at Carlsberg Ridge, located at GPS coordinates (9.89, 57.4378).
+On 2020-11-01 14:36:05.859000, there was an earthquake of magnitude 2.9 at 113 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3686, -159.9326).
+On 2020-11-01 14:34:11.015000, there was an earthquake of magnitude 4.3 at 12 km SSE of Banjaran, Indonesia, located at GPS coordinates (-7.1501, 107.6332).
+On 2020-11-01 14:05:51.513000, there was an earthquake of magnitude 3.3 at 19 km ENE of Sand Point, Alaska, located at GPS coordinates (55.38, -160.1941).
+On 2020-11-01 13:50:06.831000, there was an earthquake of magnitude 2.7 at 115 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3563, -159.8981).
+On 2020-11-01 13:47:54.664000, there was an earthquake of magnitude 4.3 at 103 km NE of Calama, Chile, located at GPS coordinates (-21.8066, -68.2013).
+On 2020-11-01 13:39:41.174000, there was an earthquake of magnitude 2.7 at 138 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1712, -159.7494).
+On 2020-11-01 13:15:41.906000, there was an earthquake of magnitude 4.6 at 2 km NE of Starigrad, Croatia, located at GPS coordinates (44.3087, 15.4606).
+On 2020-11-01 12:57:03.791000, there was an earthquake of magnitude 4.4 at 2 km NNW of Kokkári, Greece, located at GPS coordinates (37.7994, 26.8783).
+On 2020-11-01 12:56:03.906000, there was an earthquake of magnitude 2.8 at 94 km SSE of Sand Point, Alaska, located at GPS coordinates (54.6181, -159.7274).
+On 2020-11-01 12:37:18.576000, there was an earthquake of magnitude 3.2 at 141 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1647, -159.6496).
+On 2020-11-01 12:36:11.479000, there was an earthquake of magnitude 4.3 at 168 km WNW of Panguna, Papua New Guinea, located at GPS coordinates (-5.9403, 154.0072).
+On 2020-11-01 11:58:05.838000, there was an earthquake of magnitude 4.4 at 57 km W of San Antonio de los Cobres, Argentina, located at GPS coordinates (-24.2353, -66.8888).
+On 2020-11-01 11:45:52.330000, there was an earthquake of magnitude 2.81 at 7 km SSE of Guánica, Puerto Rico, located at GPS coordinates (17.9115, -66.8815).
+On 2020-11-01 11:44:43.195000, there was an earthquake of magnitude 4.6 at 39 km SW of Wales, Alaska, located at GPS coordinates (65.3927, -168.7717).
+On 2020-11-01 11:42:24.865000, there was an earthquake of magnitude 2.5 at 89 km SSE of Ruby, Alaska, located at GPS coordinates (64.0548, -154.516).
+On 2020-11-01 10:56:19.112000, there was an earthquake of magnitude 3.2 at 94 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5968, -159.7609).
+On 2020-11-01 10:14:46.445000, there was an earthquake of magnitude 2.5 at 87 km SE of Akutan, Alaska, located at GPS coordinates (53.4935, -165.0033).
+On 2020-11-01 10:01:56.522000, there was an earthquake of magnitude 3.7 at 80 km SE of Akutan, Alaska, located at GPS coordinates (53.536, -165.0853).
+On 2020-11-01 09:29:22.027000, there was an earthquake of magnitude 2.6 at south of Alaska, located at GPS coordinates (54.4449, -159.735).
+On 2020-11-01 08:52:19.140000, there was an earthquake of magnitude 3.42 at 88 km NW of San Antonio, Puerto Rico, located at GPS coordinates (19.0891, -67.6628).
+On 2020-11-01 08:33:38.671000, there was an earthquake of magnitude 2.5 at Western Montana, located at GPS coordinates (46.8722, -112.5118).
+On 2020-11-01 07:33:08.976000, there was an earthquake of magnitude 4.2 at 1 km NNE of Kokkári, Greece, located at GPS coordinates (37.7921, 26.8967).
+On 2020-11-01 07:27:38.503000, there was an earthquake of magnitude 2.9 at 182 km WSW of Adak, Alaska, located at GPS coordinates (51.1018, -178.953).
+On 2020-11-01 07:27:11.509000, there was an earthquake of magnitude 4.7 at South Shetland Islands, located at GPS coordinates (-62.3224, -58.1151).
+On 2020-11-01 07:05:13.727000, there was an earthquake of magnitude 4.2 at 9 km NNE of Samos, Greece, located at GPS coordinates (37.8274, 27.0385).
+On 2020-11-01 06:43:42.419000, there was an earthquake of magnitude 2.8 at 199 km SSE of Sand Point, Alaska, located at GPS coordinates (53.5883, -159.8024).
+On 2020-11-01 06:31:15.853000, there was an earthquake of magnitude 4.4 at 241 km E of Levuka, Fiji, located at GPS coordinates (-17.8933, -178.4064).
+On 2020-11-01 06:14:51.225000, there was an earthquake of magnitude 2.5 at 111 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4325, -159.7388).
+On 2020-11-01 05:59:29.694000, there was an earthquake of magnitude 2.9 at 118 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4269, -159.5436).
+On 2020-11-01 05:35:08.892000, there was an earthquake of magnitude 2.8 at 67 km SSW of Adak, Alaska, located at GPS coordinates (51.3079, -176.9958).
+On 2020-11-01 05:22:06.899000, there was an earthquake of magnitude 4.8 at South Shetland Islands, located at GPS coordinates (-62.3679, -58.409).
+On 2020-11-01 05:10:13.470000, there was an earthquake of magnitude 2.59 at 14 km SSE of Guánica, Puerto Rico, located at GPS coordinates (17.8493, -66.8645).
+On 2020-11-01 05:01:09.032000, there was an earthquake of magnitude 5.1 at 2 km NNW of Ángeles, Costa Rica, located at GPS coordinates (10.0129, -84.0616).
+On 2020-11-01 04:54:12.463000, there was an earthquake of magnitude 2.5 at 142 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1815, -159.5529).
+On 2020-11-01 04:34:53.398000, there was an earthquake of magnitude 4.2 at 118 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3839, -159.6878).
+On 2020-11-01 04:17:14.850000, there was an earthquake of magnitude 2.76 at 7 km SE of La Parguera, Puerto Rico, located at GPS coordinates (17.9371, -66.9878).
+On 2020-11-01 04:15:45.029000, there was an earthquake of magnitude 2.8 at 46 km W of Mentone, Texas, located at GPS coordinates (31.7229, -104.087).
+On 2020-11-01 03:48:37.093000, there was an earthquake of magnitude 2.9 at 110 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4377, -159.7673).
+On 2020-11-01 03:43:20.342000, there was an earthquake of magnitude 5.7 at 294 km ENE of Lospalos, Timor Leste, located at GPS coordinates (-7.0719, 129.2407).
+On 2020-11-01 03:39:46.536000, there was an earthquake of magnitude 2.8 at 160 km SSE of Sand Point, Alaska, located at GPS coordinates (53.9951, -159.5912).
+On 2020-11-01 03:32:59.584000, there was an earthquake of magnitude 4.8 at 158 km SSW of Pagar Alam, Indonesia, located at GPS coordinates (-5.2225, 102.4699).
+On 2020-11-01 03:13:04.158000, there was an earthquake of magnitude 4.6 at 112 km NE of Nago, Japan, located at GPS coordinates (27.2535, 128.8721).
+On 2020-11-01 03:01:58.210000, there was an earthquake of magnitude 2.75 at 3 km SSW of La Parguera, Puerto Rico, located at GPS coordinates (17.9481, -67.062).
+On 2020-11-01 02:56:56.420000, there was an earthquake of magnitude 4.5 at South Shetland Islands, located at GPS coordinates (-62.2532, -58.3163).
+On 2020-11-01 02:47:33.542000, there was an earthquake of magnitude 4.6 at 46 km ESE of Arica, Chile, located at GPS coordinates (-18.6705, -69.9055).
+On 2020-11-01 02:46:34.540000, there was an earthquake of magnitude 2.69 at 2 km NE of Magas Arriba, Puerto Rico, located at GPS coordinates (18.0315, -66.7535).
+On 2020-11-01 02:35:46.531000, there was an earthquake of magnitude 2.5 at 95 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5571, -159.8854).
+On 2020-11-01 02:28:21.810000, there was an earthquake of magnitude 2.62 at 13 km SE of Triana, Alabama, located at GPS coordinates (34.5126667, -86.6156667).
+On 2020-11-01 02:23:36.394000, there was an earthquake of magnitude 2.9 at 234 km SSE of Sand Point, Alaska, located at GPS coordinates (53.3004, -159.6006).
+On 2020-11-01 01:50:56.968000, there was an earthquake of magnitude 2.8 at 61 km S of Whites City, New Mexico, located at GPS coordinates (31.6295, -104.4753).
+On 2020-11-01 01:21:21.166000, there was an earthquake of magnitude 4.5 at 29 km W of Villazón, Bolivia, located at GPS coordinates (-22.0559, -65.8815).
+On 2020-11-01 00:47:37.474000, there was an earthquake of magnitude 3.0 at 54 km NW of Toyah, Texas, located at GPS coordinates (31.6067, -104.2486).
+On 2020-11-01 00:25:24.017000, there was an earthquake of magnitude 2.8 at 17 km SE of Adak, Alaska, located at GPS coordinates (51.7598, -176.4559).
+On 2020-10-31 23:44:44.306000, there was an earthquake of magnitude 2.6 at 192 km SSE of Sand Point, Alaska, located at GPS coordinates (53.6618, -159.7453).
+On 2020-10-31 23:00:23.938000, there was an earthquake of magnitude 2.9 at 98 km W of Akhiok, AK, located at GPS coordinates (56.9897, -155.7821).
+On 2020-10-31 22:05:43.515000, there was an earthquake of magnitude 4.0 at 4 km NNE of Kokkári, Greece, located at GPS coordinates (37.8197, 26.9124).
+On 2020-10-31 22:03:58.368000, there was an earthquake of magnitude 2.9 at 93 km SSE of Sand Point, Alaska, located at GPS coordinates (54.6311, -159.7049).
+On 2020-10-31 21:50:27.743000, there was an earthquake of magnitude 2.8 at 99 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5777, -159.6726).
+On 2020-10-31 21:38:01.945000, there was an earthquake of magnitude 4.5 at 174 km S of Kroya, Indonesia, located at GPS coordinates (-9.1872, 108.9762).
+On 2020-10-31 21:28:47.747000, there was an earthquake of magnitude 4.3 at 180 km SSE of Kadzhi-Say, Kyrgyzstan, located at GPS coordinates (40.6235, 77.9427).
+On 2020-10-31 21:22:53.967000, there was an earthquake of magnitude 4.3 at 204 km ENE of Olonkinbyen, Svalbard and Jan Mayen, located at GPS coordinates (71.4394, -3.2599).
+On 2020-10-31 21:04:03.782000, there was an earthquake of magnitude 5.1 at South Sandwich Islands region, located at GPS coordinates (-55.734, -27.1091).
+On 2020-10-31 20:59:16.488000, there was an earthquake of magnitude 4.4 at 109 km SSW of La Esperanza (El Zapotal), Mexico, located at GPS coordinates (14.5911, -93.6773).
+On 2020-10-31 20:57:23.850000, there was an earthquake of magnitude 3.02 at 24km NNW of Tehachapi, CA, located at GPS coordinates (35.339, -118.5076667).
+On 2020-10-31 20:50:39.539000, there was an earthquake of magnitude 2.8 at 191 km SSE of Sand Point, Alaska, located at GPS coordinates (53.6628, -159.819).
+On 2020-10-31 20:22:54.460000, there was an earthquake of magnitude 3.1 at 23 km SW of Esperanza, Puerto Rico, located at GPS coordinates (17.9338, -65.6148).
+On 2020-10-31 20:01:36.342000, there was an earthquake of magnitude 2.9 at 226 km S of Sand Point, Alaska, located at GPS coordinates (53.316, -160.0902).
+On 2020-10-31 19:49:37.810000, there was an earthquake of magnitude 2.88 at 13km NW of Morongo Valley, CA, located at GPS coordinates (34.1128333, -116.6948333).
+On 2020-10-31 19:30:15.767000, there was an earthquake of magnitude 3.2 at 42 km ESE of Nikolski, Alaska, located at GPS coordinates (52.7737, -168.2933).
+On 2020-10-31 18:51:49.488000, there was an earthquake of magnitude 4.2 at 106 km ESE of Copiapó, Chile, located at GPS coordinates (-27.8862, -69.4207).
+On 2020-10-31 18:43:10.118000, there was an earthquake of magnitude 4.2 at 129 km E of Nagqu, China, located at GPS coordinates (31.703, 93.4001).
+On 2020-10-31 18:25:42.710000, there was an earthquake of magnitude 2.88 at 1 km W of P?hala, Hawaii, located at GPS coordinates (19.2001666666667, -155.496666666667).
+On 2020-10-31 18:09:21.109000, there was an earthquake of magnitude 4.2 at 48 km SW of Padangsidempuan, Indonesia, located at GPS coordinates (1.0671, 98.9593).
+On 2020-10-31 18:04:18.531000, there was an earthquake of magnitude 4.2 at 58 km SSE of Adak, Alaska, located at GPS coordinates (51.4109, -176.2271).
+On 2020-10-31 17:51:15.120000, there was an earthquake of magnitude 3.2 at 156 km SSE of Sand Point, Alaska, located at GPS coordinates (54.0088, -159.7087).
+On 2020-10-31 17:28:40.748000, there was an earthquake of magnitude 2.8 at 128 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2865, -159.6591).
+On 2020-10-31 17:11:33.284000, there was an earthquake of magnitude 4.3 at south of the Fiji Islands, located at GPS coordinates (-22.2285, -179.5188).
+On 2020-10-31 17:01:18.868000, there was an earthquake of magnitude 3.9 at 108 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4571, -159.7611).
+On 2020-10-31 16:59:40.590000, there was an earthquake of magnitude 4.5 at 53 km E of Leh, India, located at GPS coordinates (34.1948, 78.1585).
+On 2020-10-31 16:55:17.759000, there was an earthquake of magnitude 2.6 at 8 km NW of Stanley, Idaho, located at GPS coordinates (44.28, -114.9995).
+On 2020-10-31 16:40:33.078000, there was an earthquake of magnitude 2.8 at Andreanof Islands, Aleutian Islands, Alaska, located at GPS coordinates (51.0437, -174.0472).
+On 2020-10-31 14:42:43.329000, there was an earthquake of magnitude 4.3 at 26 km WNW of Néon Karlovásion, Greece, located at GPS coordinates (37.8997, 26.4381).
+On 2020-10-31 14:41:09.785000, there was an earthquake of magnitude 3.1 at 29 km SSE of Mina, Nevada, located at GPS coordinates (38.1572, -117.937).
+On 2020-10-31 14:39:39.969000, there was an earthquake of magnitude 2.6 at 90 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5955, -159.9164).
+On 2020-10-31 14:35:38.793000, there was an earthquake of magnitude 3.9 at 115 km NNW of Saipan, Northern Mariana Islands, located at GPS coordinates (16.2317, 145.5112).
+On 2020-10-31 14:26:50.450000, there was an earthquake of magnitude 3.06 at 15 km SW of Esperanza, Puerto Rico, located at GPS coordinates (17.9838, -65.5558).
+On 2020-10-31 13:41:44.019000, there was an earthquake of magnitude 4.5 at 210 km N of Likisá, Timor Leste, located at GPS coordinates (-6.6956, 125.1462).
+On 2020-10-31 13:40:06.886000, there was an earthquake of magnitude 3.0 at 113 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4127, -159.7379).
+On 2020-10-31 12:36:20.035000, there was an earthquake of magnitude 4.2 at 5 km W of Kokkári, Greece, located at GPS coordinates (37.7775, 26.8244).
+On 2020-10-31 12:35:23.156000, there was an earthquake of magnitude 4.3 at 183 km E of Pangai, Tonga, located at GPS coordinates (-20.0477, -172.6179).
+On 2020-10-31 12:08:58.512000, there was an earthquake of magnitude 2.7 at 114 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3825, -159.85).
+On 2020-10-31 12:05:36.921000, there was an earthquake of magnitude 3.0 at 117 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3844, -159.693).
+On 2020-10-31 11:38:36.001000, there was an earthquake of magnitude 4.5 at Balleny Islands region, located at GPS coordinates (-61.1362, 154.0186).
+On 2020-10-31 11:34:19.320000, there was an earthquake of magnitude 3.17 at 55 km NW of San Antonio, Puerto Rico, located at GPS coordinates (18.8123, -67.507).
+On 2020-10-31 11:08:35.990000, there was an earthquake of magnitude 4.5 at 90 km NNE of Calama, Chile, located at GPS coordinates (-21.737, -68.5078).
+On 2020-10-31 11:03:22.810000, there was an earthquake of magnitude 2.5 at 99 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5591, -159.7206).
+On 2020-10-31 10:19:32.074000, there was an earthquake of magnitude 4.4 at 287 km WSW of Haveluloto, Tonga, located at GPS coordinates (-21.7462, -177.915).
+On 2020-10-31 10:15:26.312000, there was an earthquake of magnitude 5.1 at south of the Fiji Islands, located at GPS coordinates (-22.1234, -179.1797).
+On 2020-10-31 09:53:23.367000, there was an earthquake of magnitude 2.6 at 135 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2261, -159.6543).
+On 2020-10-31 09:41:13.420000, there was an earthquake of magnitude 3.8 at 219 km S of Sand Point, Alaska, located at GPS coordinates (53.3776, -160.0706).
+On 2020-10-31 09:17:07.704000, there was an earthquake of magnitude 2.7 at 4 km NNW of Tyonek, AK, located at GPS coordinates (61.0988, -151.1754).
+On 2020-10-31 09:10:49.258000, there was an earthquake of magnitude 4.0 at 105 km SSE of Sand Point, Alaska, located at GPS coordinates (54.523, -159.6591).
+On 2020-10-31 08:55:19.619000, there was an earthquake of magnitude 3.1 at 120 km SSE of Ugashik, AK, located at GPS coordinates (56.6104, -156.3108).
+On 2020-10-31 08:53:46.385000, there was an earthquake of magnitude 2.6 at 68 km SE of Perryville, AK, located at GPS coordinates (55.4608, -158.4203).
+On 2020-10-31 08:50:07.210000, there was an earthquake of magnitude 2.7 at 4 km S of Guánica, Puerto Rico, located at GPS coordinates (17.927, -66.9083).
+On 2020-10-31 08:45:05.850000, there was an earthquake of magnitude 2.9 at 116 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3951, -159.7226).
+On 2020-10-31 08:28:58.661000, there was an earthquake of magnitude 4.3 at 91 km ESE of Neiafu, Tonga, located at GPS coordinates (-19.0359, -173.2199).
+On 2020-10-31 07:57:04.564000, there was an earthquake of magnitude 2.9 at 126 km SW of Akhiok, AK, located at GPS coordinates (56.1724, -155.6679).
+On 2020-10-31 07:41:40.706000, there was an earthquake of magnitude 5.2 at South Shetland Islands, located at GPS coordinates (-62.338, -58.2311).
+On 2020-10-31 07:34:05.786000, there was an earthquake of magnitude 4.5 at South Shetland Islands, located at GPS coordinates (-62.3012, -58.1926).
+On 2020-10-31 07:27:12.462000, there was an earthquake of magnitude 3.0 at 201 km SSE of Sand Point, Alaska, located at GPS coordinates (53.5601, -159.8681).
+On 2020-10-31 07:20:38.829000, there was an earthquake of magnitude 4.5 at 53 km ENE of Kérouané, Guinea, located at GPS coordinates (9.4058, -8.5545).
+On 2020-10-31 07:09:21.349000, there was an earthquake of magnitude 2.8 at 116 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3771, -159.7616).
+On 2020-10-31 06:38:08.949000, there was an earthquake of magnitude 4.2 at 63 km NE of Jiangyou, China, located at GPS coordinates (32.1505, 105.2089).
+On 2020-10-31 06:32:23.537000, there was an earthquake of magnitude 2.7 at 120 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3239, -159.8367).
+On 2020-10-31 06:26:07.018000, there was an earthquake of magnitude 3.4 at 239 km S of Sand Point, Alaska, located at GPS coordinates (53.211, -159.9355).
+On 2020-10-31 06:22:53.974000, there was an earthquake of magnitude 4.7 at South Shetland Islands, located at GPS coordinates (-62.2866, -58.2523).
+On 2020-10-31 05:36:09.614000, there was an earthquake of magnitude 4.7 at 120 km SE of Sand Point, Alaska, located at GPS coordinates (54.4997, -159.3065).
+On 2020-10-31 05:31:30.230000, there was an earthquake of magnitude 4.9 at 10 km NNW of Kokkári, Greece, located at GPS coordinates (37.8579, 26.8344).
+On 2020-10-31 05:22:11.070000, there was an earthquake of magnitude 4.4 at 265 km E of Levuka, Fiji, located at GPS coordinates (-18.1764, -178.1726).
+On 2020-10-31 04:58:36.078000, there was an earthquake of magnitude 3.0 at 100 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5705, -159.6718).
+On 2020-10-31 04:46:51.158000, there was an earthquake of magnitude 4.2 at 108 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4305, -159.8564).
+On 2020-10-31 04:29:35.157000, there was an earthquake of magnitude 2.5 at 99 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5905, -159.6306).
+On 2020-10-31 03:54:34.070000, there was an earthquake of magnitude 4.5 at Jan Mayen Island region, located at GPS coordinates (71.3873, -3.7009).
+On 2020-10-31 03:49:08.770000, there was an earthquake of magnitude 2.54999995 at 6 km WSW of Volcano, Hawaii, located at GPS coordinates (19.4158325195312, -155.285507202148).
+On 2020-10-31 03:45:09.706000, there was an earthquake of magnitude 2.5 at 208 km SSE of Sand Point, Alaska, located at GPS coordinates (53.5032, -159.8215).
+On 2020-10-31 03:25:41.053000, there was an earthquake of magnitude 2.8 at 216 km SSE of Sand Point, Alaska, located at GPS coordinates (53.4432, -159.7607).
+On 2020-10-31 03:19:37.752000, there was an earthquake of magnitude 4.3 at 180 km S of Sand Point, Alaska, located at GPS coordinates (53.7408, -159.9788).
+On 2020-10-31 03:12:25.011000, there was an earthquake of magnitude 2.6 at 22 km NNW of Nikiski, AK, located at GPS coordinates (60.8686, -151.4586).
+On 2020-10-31 02:54:00.973000, there was an earthquake of magnitude 4.1 at 264 km ESE of Poronaysk, Russia, located at GPS coordinates (48.1851, 146.3274).
+On 2020-10-31 02:49:49.417000, there was an earthquake of magnitude 4.5 at 6 km W of Magallanes, Philippines, located at GPS coordinates (14.1868, 120.7014).
+On 2020-10-31 02:45:25.232000, there was an earthquake of magnitude 2.6 at 97 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5965, -159.6986).
+On 2020-10-31 02:35:14.875000, there was an earthquake of magnitude 2.8 at 125 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2568, -159.9636).
+On 2020-10-31 02:27:10.634000, there was an earthquake of magnitude 4.1 at 269 km WNW of Haveluloto, Tonga, located at GPS coordinates (-20.5141, -177.7137).
+On 2020-10-31 01:54:17.035000, there was an earthquake of magnitude 3.4 at 199 km S of Sand Point, Alaska, located at GPS coordinates (53.5759, -159.8879).
+On 2020-10-31 01:49:03.554000, there was an earthquake of magnitude 3.1 at 110 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4631, -159.6691).
+On 2020-10-31 01:44:26.277000, there was an earthquake of magnitude 4.5 at south of the Fiji Islands, located at GPS coordinates (-23.7825, -179.769).
+On 2020-10-31 01:40:33.433000, there was an earthquake of magnitude 4.2 at 19 km WNW of Néon Karlovásion, Greece, located at GPS coordinates (37.8757, 26.5078).
+On 2020-10-31 01:10:08.763000, there was an earthquake of magnitude 4.1 at 115 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4122, -159.6834).
+On 2020-10-30 23:46:45.663000, there was an earthquake of magnitude 5.3 at 203 km ENE of Olonkinbyen, Svalbard and Jan Mayen, located at GPS coordinates (71.4672, -3.3066).
+On 2020-10-30 23:27:03.237000, there was an earthquake of magnitude 2.5 at 108 km SSE of Sand Point, Alaska, located at GPS coordinates (54.426, -159.8768).
+On 2020-10-30 23:11:36.978000, there was an earthquake of magnitude 2.5 at 146 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1466, -159.5153).
+On 2020-10-30 22:56:47.691000, there was an earthquake of magnitude 5.6 at 206 km ENE of Olonkinbyen, Svalbard and Jan Mayen, located at GPS coordinates (71.5432, -3.2896).
+On 2020-10-30 22:53:22.916000, there was an earthquake of magnitude 4.1 at 10 km NNE of Néon Karlovásion, Greece, located at GPS coordinates (37.8755, 26.7671).
+On 2020-10-30 22:48:11.916000, there was an earthquake of magnitude 2.6 at 124 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2631, -159.9367).
+On 2020-10-30 22:37:08.380000, there was an earthquake of magnitude 4.2 at 5 km WSW of Kokkári, Greece, located at GPS coordinates (37.7574, 26.8375).
+On 2020-10-30 22:00:19.310000, there was an earthquake of magnitude 3.0 at 104 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5097, -159.7216).
+On 2020-10-30 21:47:35.670000, there was an earthquake of magnitude 3.2 at 46 km E of Chenega, Alaska, located at GPS coordinates (59.9913, -147.192).
+On 2020-10-30 21:34:44.242000, there was an earthquake of magnitude 3.4 at 127 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3005, -159.6461).
+On 2020-10-30 21:00:34.642000, there was an earthquake of magnitude 2.9 at 98 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5089, -159.976).
+On 2020-10-30 20:46:13.496000, there was an earthquake of magnitude 3.0 at 16 km SW of Stanley, Idaho, located at GPS coordinates (44.1276, -115.1039).
+On 2020-10-30 20:32:46, there was an earthquake of magnitude 4.6 at 83 km NE of Cabatuan, Philippines, located at GPS coordinates (13.1321, 125.6668).
+On 2020-10-30 20:23:10.171000, there was an earthquake of magnitude 2.7 at 85 km SE of King Cove, Alaska, located at GPS coordinates (54.6121, -161.2474).
+On 2020-10-30 20:18:48.720000, there was an earthquake of magnitude 2.8 at 26 km NW of Stanley, Idaho, located at GPS coordinates (44.3665, -115.1903).
+On 2020-10-30 20:12:37.504000, there was an earthquake of magnitude 4.8 at 67 km SSW of Kashgar, China, located at GPS coordinates (38.9056, 75.7044).
+On 2020-10-30 20:05:30.440000, there was an earthquake of magnitude 2.5 at 109 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4493, -159.7523).
+On 2020-10-30 19:41:49.379000, there was an earthquake of magnitude 4.1 at 172 km ESE of Labasa, Fiji, located at GPS coordinates (-16.7707, -179.0569).
+On 2020-10-30 19:22:27.720000, there was an earthquake of magnitude 2.67 at 57km W of Ferndale, CA, located at GPS coordinates (40.4988333, -124.9315).
+On 2020-10-30 19:13:57.258000, there was an earthquake of magnitude 2.9 at 110 km SSE of Sand Point, Alaska, located at GPS coordinates (54.472, -159.6516).
+On 2020-10-30 19:09:40.012000, there was an earthquake of magnitude 4.2 at 17 km NE of Agios Kirykos, Greece, located at GPS coordinates (37.711, 26.4454).
+On 2020-10-30 19:04:55.489000, there was an earthquake of magnitude 4.6 at 124 km S of Ambon, Indonesia, located at GPS coordinates (-4.82, 128.1626).
+On 2020-10-30 18:55:42.885000, there was an earthquake of magnitude 4.2 at 47 km NE of Port-Vila, Vanuatu, located at GPS coordinates (-17.4262, 168.6195).
+On 2020-10-30 18:37:51.662000, there was an earthquake of magnitude 4.6 at 42 km E of Auki, Solomon Islands, located at GPS coordinates (-8.7661, 161.0861).
+On 2020-10-30 18:28:42.260000, there was an earthquake of magnitude 3.6 at 34 km WSW of Amos, Canada, located at GPS coordinates (48.4066, -78.5086).
+On 2020-10-30 18:27:35.587000, there was an earthquake of magnitude 4.5 at 128 km WNW of Ternate, Indonesia, located at GPS coordinates (1.3981, 126.4018).
+On 2020-10-30 18:24:41.629000, there was an earthquake of magnitude 5.5 at 51 km NNE of Oxapampa, Peru, located at GPS coordinates (-10.1704, -75.1714).
+On 2020-10-30 18:20:15.459000, there was an earthquake of magnitude 2.9 at 109 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4176, -159.8852).
+On 2020-10-30 18:14:19.706000, there was an earthquake of magnitude 2.6 at 107 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4935, -159.6775).
+On 2020-10-30 18:14:10.357000, there was an earthquake of magnitude 3.3 at 18 km E of Wright, Wyoming, located at GPS coordinates (43.7398, -105.2584).
+On 2020-10-30 18:01:43.014000, there was an earthquake of magnitude 5.1 at 86 km WNW of Tari, Papua New Guinea, located at GPS coordinates (-5.6042, 142.2062).
+On 2020-10-30 17:25:20.371000, there was an earthquake of magnitude 3.2 at south of Alaska, located at GPS coordinates (54.3198, -159.7265).
+On 2020-10-30 17:16:03.273000, there was an earthquake of magnitude 4.2 at 7 km NE of Samos, Greece, located at GPS coordinates (37.7971, 27.0473).
+On 2020-10-30 16:31:31.546000, there was an earthquake of magnitude 2.8 at 59 km S of Whites City, New Mexico, located at GPS coordinates (31.6423, -104.3215).
+On 2020-10-30 16:29:09.219000, there was an earthquake of magnitude 4.3 at Andreanof Islands, Aleutian Islands, Alaska, located at GPS coordinates (51.0645, -179.8377).
+On 2020-10-30 16:04:29.760000, there was an earthquake of magnitude 3.1 at 125 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3168, -159.6682).
+On 2020-10-30 15:51:35.624000, there was an earthquake of magnitude 4.5 at 40 km SW of Ashk?sham, Afghanistan, located at GPS coordinates (36.4625, 71.1738).
+On 2020-10-30 15:43:15.320000, there was an earthquake of magnitude 3.2 at 57 km S of Whites City, New Mexico, located at GPS coordinates (31.6614, -104.3074).
+On 2020-10-30 15:19:15.900000, there was an earthquake of magnitude 4.8 at 2 km SW of Samos, Greece, located at GPS coordinates (37.7426, 26.9558).
+On 2020-10-30 15:14:55.887000, there was an earthquake of magnitude 5.3 at 8 km NW of Kokkári, Greece, located at GPS coordinates (37.8319, 26.8222).
+On 2020-10-30 14:52:21.183000, there was an earthquake of magnitude 4.3 at 173 km ESE of Saipan, Northern Mariana Islands, located at GPS coordinates (14.8466, 147.3207).
+On 2020-10-30 14:47:03.412000, there was an earthquake of magnitude 4.5 at 61 km WSW of Kirakira, Solomon Islands, located at GPS coordinates (-10.6175, 161.3826).
+On 2020-10-30 14:28:02.640000, there was an earthquake of magnitude 2.7 at 107 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4564, -159.8067).
+On 2020-10-30 14:16:48.503000, there was an earthquake of magnitude 3.4 at 135 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1815, -159.8288).
+On 2020-10-30 14:01:32.780000, there was an earthquake of magnitude 3.21 at 58 km S of Jobos, Puerto Rico, located at GPS coordinates (17.4301, -66.1183).
+On 2020-10-30 13:26:58.667000, there was an earthquake of magnitude 4.3 at 182 km ESE of Gorontalo, Indonesia, located at GPS coordinates (-0.3142, 124.4671).
+On 2020-10-30 13:13:57.695000, there was an earthquake of magnitude 4.5 at Pacific-Antarctic Ridge, located at GPS coordinates (-62.8005, -158.4908).
+On 2020-10-30 13:11:55.841000, there was an earthquake of magnitude 4.3 at 98 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5905, -159.6634).
+On 2020-10-30 13:06:56.657000, there was an earthquake of magnitude 4.3 at 3 km E of Vathý, Greece, located at GPS coordinates (37.7454, 27.0262).
+On 2020-10-30 13:01:20.389000, there was an earthquake of magnitude 4.7 at 193 km NNW of Sola, Vanuatu, located at GPS coordinates (-12.2459, 166.9152).
+On 2020-10-30 13:00:43.929000, there was an earthquake of magnitude 4.9 at 8 km N of Kokkári, Greece, located at GPS coordinates (37.8551, 26.8766).
+On 2020-10-30 12:52:16.065000, there was an earthquake of magnitude 4.4 at 160 km NW of Santa Cruz da Graciosa, Portugal, located at GPS coordinates (40.1237, -29.312).
+On 2020-10-30 12:45:56.849000, there was an earthquake of magnitude 2.9 at 57 km S of Whites City, New Mexico, located at GPS coordinates (31.6597, -104.3119).
+On 2020-10-30 12:43:51.830000, there was an earthquake of magnitude 3.0 at 160 km S of False Pass, Alaska, located at GPS coordinates (53.4144, -163.606).
+On 2020-10-30 12:41:31.954000, there was an earthquake of magnitude 4.0 at 4 km N of Samos, Greece, located at GPS coordinates (37.7973, 26.9776).
+On 2020-10-30 12:22:26.427000, there was an earthquake of magnitude 3.1 at 15 km SE of Lincoln, Montana, located at GPS coordinates (46.8493, -112.5564).
+On 2020-10-30 12:19:09.834000, there was an earthquake of magnitude 4.4 at 5 km NW of Marathókampos, Greece, located at GPS coordinates (37.7578, 26.6426).
+On 2020-10-30 12:15:30.733000, there was an earthquake of magnitude 3.3 at 14 km NW of Stanley, Idaho, located at GPS coordinates (44.3141, -115.0556).
+On 2020-10-30 11:54:56.853000, there was an earthquake of magnitude 2.6 at 15 km NW of Stanley, Idaho, located at GPS coordinates (44.3063, -115.0898).
+On 2020-10-30 11:51:27.348000, there was an earthquake of magnitude 7.0 at 13 km NNE of Néon Karlovásion, Greece, located at GPS coordinates (37.8973, 26.7838).
+On 2020-10-30 11:10:10.978000, there was an earthquake of magnitude 5.5 at 38 km E of Auki, Solomon Islands, located at GPS coordinates (-8.8203, 161.0406).
+On 2020-10-30 10:49:37.274000, there was an earthquake of magnitude 2.6 at 31 km NNE of Yakutat, Alaska, located at GPS coordinates (59.7948, -139.4635).
+On 2020-10-30 10:36:32.988000, there was an earthquake of magnitude 4.2 at 107 km SSW of Champerico, Guatemala, located at GPS coordinates (13.4475, -92.3929).
+On 2020-10-30 10:14:59.127000, there was an earthquake of magnitude 5.2 at south of the Fiji Islands, located at GPS coordinates (-25.8462, 179.3371).
+On 2020-10-30 10:07:40.475000, there was an earthquake of magnitude 2.8 at 122 km SSE of Akutan, Alaska, located at GPS coordinates (53.2235, -164.7371).
+On 2020-10-30 10:00:09.176000, there was an earthquake of magnitude 2.9 at 205 km SSE of Sand Point, Alaska, located at GPS coordinates (53.5504, -159.6753).
+On 2020-10-30 09:57:23.162000, there was an earthquake of magnitude 3.1 at 124 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2914, -159.7932).
+On 2020-10-30 09:26:43.931000, there was an earthquake of magnitude 4.5 at northern Mid-Atlantic Ridge, located at GPS coordinates (10.7329, -43.1035).
+On 2020-10-30 09:20:36.917000, there was an earthquake of magnitude 4.6 at 89 km S of Palekastro, Greece, located at GPS coordinates (34.4019, 26.4286).
+On 2020-10-30 09:18:10.659000, there was an earthquake of magnitude 2.6 at 120 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3652, -159.6666).
+On 2020-10-30 08:52:01.130000, there was an earthquake of magnitude 2.56 at 19km SSE of Lopez Point, CA, located at GPS coordinates (35.8695, -121.4576667).
+On 2020-10-30 08:38:41.148000, there was an earthquake of magnitude 5.9 at northern Mid-Atlantic Ridge, located at GPS coordinates (10.6312, -43.5286).
+On 2020-10-30 08:33:37.307000, there was an earthquake of magnitude 2.9 at 200 km SSE of Sand Point, Alaska, located at GPS coordinates (53.5863, -159.7802).
+On 2020-10-30 08:30:11.650000, there was an earthquake of magnitude 2.84 at 7 km E of P?hala, Hawaii, located at GPS coordinates (19.2028333333333, -155.411).
+On 2020-10-30 08:26:17.422000, there was an earthquake of magnitude 3.1 at 136 km SSE of Sand Point, Alaska, located at GPS coordinates (54.2177, -159.6476).
+On 2020-10-30 08:16:00.819000, there was an earthquake of magnitude 2.5 at 116 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4006, -159.6727).
+On 2020-10-30 08:09:18.903000, there was an earthquake of magnitude 2.7 at 121 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3542, -159.6859).
+On 2020-10-30 08:06:06.811000, there was an earthquake of magnitude 2.7 at 117 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4146, -159.6213).
+On 2020-10-30 08:02:46.090000, there was an earthquake of magnitude 2.61 at 20km SE of Yosemite Valley, CA, located at GPS coordinates (37.638, -119.3846667).
+On 2020-10-30 08:02:03.830000, there was an earthquake of magnitude 3.1 at 20km SE of Yosemite Valley, CA, located at GPS coordinates (37.6336667, -119.396).
+On 2020-10-30 07:56:25.916000, there was an earthquake of magnitude 4.3 at Kermadec Islands region, located at GPS coordinates (-29.604, -176.0074).
+On 2020-10-30 07:54:48.860000, there was an earthquake of magnitude 2.82 at 1 km SSW of Guayanilla, Puerto Rico, located at GPS coordinates (18.009, -66.794).
+On 2020-10-30 07:28:38.258000, there was an earthquake of magnitude 2.6 at 12 km WNW of Stanley, Idaho, located at GPS coordinates (44.2562, -115.0915).
+On 2020-10-30 07:19:07.211000, there was an earthquake of magnitude 2.9 at south of Alaska, located at GPS coordinates (54.581, -159.6958).
+On 2020-10-30 07:07:14.888000, there was an earthquake of magnitude 3.0 at 100 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5597, -159.6894).
+On 2020-10-30 06:52:11.580000, there was an earthquake of magnitude 2.64 at 6 km SW of Glencoe, Oklahoma, located at GPS coordinates (36.186, -96.9745).
+On 2020-10-30 06:42:45.392000, there was an earthquake of magnitude 3.5 at 118 km SSE of Sand Point, Alaska, located at GPS coordinates (54.3681, -159.7233).
+On 2020-10-30 06:41:10.390000, there was an earthquake of magnitude 2.68 at 0 km WSW of Galateo, Puerto Rico, located at GPS coordinates (18.3586, -66.2673).
+On 2020-10-30 06:34:18.937000, there was an earthquake of magnitude 2.7 at 112 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4137, -159.8036).
+On 2020-10-30 06:19:43.969000, there was an earthquake of magnitude 3.0 at 201 km SSE of Sand Point, Alaska, located at GPS coordinates (53.5665, -159.8272).
+On 2020-10-30 05:48:20.838000, there was an earthquake of magnitude 3.7 at south of Alaska, located at GPS coordinates (54.3253, -159.6814).
+On 2020-10-30 05:12:31.948000, there was an earthquake of magnitude 4.3 at 40 km NE of Shikotan, Russia, located at GPS coordinates (44.0371, 147.1044).
+On 2020-10-30 05:11:46.409000, there was an earthquake of magnitude 2.8 at 139 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1486, -159.7942).
+On 2020-10-30 05:05:39.198000, there was an earthquake of magnitude 4.1 at 130 km ESE of Iquique, Chile, located at GPS coordinates (-20.5711, -68.9584).
+On 2020-10-30 04:58:35.458000, there was an earthquake of magnitude 3.3 at 114 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4281, -159.6567).
+On 2020-10-30 04:46:55.314000, there was an earthquake of magnitude 2.5 at south of Alaska, located at GPS coordinates (54.4478, -159.7277).
+On 2020-10-30 04:41:31.505000, there was an earthquake of magnitude 2.6 at 105 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4845, -159.7935).
+On 2020-10-30 04:36:28.610000, there was an earthquake of magnitude 5.1 at 106 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5046, -159.6855).
+On 2020-10-30 04:33:32.723000, there was an earthquake of magnitude 4.3 at Fiji region, located at GPS coordinates (-21.1022, -178.4886).
+On 2020-10-30 04:29:59.880000, there was an earthquake of magnitude 2.6 at 8 km SSW of Indios, Puerto Rico, located at GPS coordinates (17.9228, -66.8383).
+On 2020-10-30 04:06:45.644000, there was an earthquake of magnitude 4.8 at 226 km S of ‘Ohonua, Tonga, located at GPS coordinates (-23.3516, -175.2876).
+On 2020-10-30 03:57:05.620000, there was an earthquake of magnitude 4.1 at 82 km W of Attu Station, Alaska, located at GPS coordinates (52.7357, 171.9805).
+On 2020-10-30 03:46:45.151000, there was an earthquake of magnitude 4.4 at 90 km WSW of Abra Pampa, Argentina, located at GPS coordinates (-22.9625, -66.5392).
+On 2020-10-30 03:43:48.892000, there was an earthquake of magnitude 2.8 at 59 km S of Whites City, New Mexico, located at GPS coordinates (31.6438, -104.3322).
+On 2020-10-30 03:02:01.755000, there was an earthquake of magnitude 4.8 at Easter Island region, located at GPS coordinates (-22.9896, -114.6519).
+On 2020-10-30 02:55:22.033000, there was an earthquake of magnitude 2.9 at 113 km SSE of Sand Point, Alaska, located at GPS coordinates (54.4309, -159.6959).
+On 2020-10-30 02:34:21.986000, there was an earthquake of magnitude 5.3 at Fiji region, located at GPS coordinates (-20.8413, -178.5491).
+On 2020-10-30 02:26:21.559000, there was an earthquake of magnitude 4.7 at South Shetland Islands, located at GPS coordinates (-62.3067, -58.1731).
+On 2020-10-30 02:02:34.832000, there was an earthquake of magnitude 4.2 at 171 km N of Dili, Timor Leste, located at GPS coordinates (-7.0335, 125.2868).
+On 2020-10-30 01:37:13.588000, there was an earthquake of magnitude 3.2 at 104 km SSE of Sand Point, Alaska, located at GPS coordinates (54.5287, -159.6671).
+On 2020-10-30 01:33:12.991000, there was an earthquake of magnitude 2.9 at 27 km S of King Cove, Alaska, located at GPS coordinates (54.8152, -162.3375).
+On 2020-10-30 01:28:20.417000, there was an earthquake of magnitude 4.2 at 107 km N of Komodo, Indonesia, located at GPS coordinates (-7.6229, 119.3545).
+On 2020-10-30 01:10:29.535000, there was an earthquake of magnitude 4.2 at 148 km NNE of Tobelo, Indonesia, located at GPS coordinates (2.9609, 128.543).
+On 2020-10-30 00:15:53.999000, there was an earthquake of magnitude 3.0 at 141 km SSE of Sand Point, Alaska, located at GPS coordinates (54.1565, -159.6758).
